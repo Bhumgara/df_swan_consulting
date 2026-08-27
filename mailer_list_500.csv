@@ -1,501 +1,501 @@
 CustomerID,City,Zip Code,Tenure Months,Contract,Internet Service,Payment Method,Monthly Charges,Total Charges,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies,prob_stay,prob_churn
-3489-HHPFY,Amboy,92304,2,Month-to-month,Fiber optic,Electronic check,84.05,134.05,No,No,No,No,Yes,No,0.14598120395598957,0.8540187960440104
-5150-ITWWB,Hamilton City,95951,3,Month-to-month,Fiber optic,Electronic check,94.85,335.75,No,No,No,No,Yes,Yes,0.14750636459592315,0.8524936354040769
-4927-WWOOZ,Pacific Grove,93950,2,Month-to-month,Fiber optic,Electronic check,91.45,171.45,No,No,Yes,No,Yes,No,0.1477613000301412,0.8522386999698588
-6630-UJZMY,Palo Alto,94306,4,Month-to-month,Fiber optic,Electronic check,83.25,308.05,No,No,No,No,Yes,No,0.15086876395184567,0.8491312360481543
-7398-SKNQZ,Downey,90241,3,Month-to-month,Fiber optic,Electronic check,94.9,273.2,No,No,No,No,Yes,Yes,0.16263128712104313,0.8373687128789569
-8161-QYMTT,Santa Maria,93454,7,Month-to-month,Fiber optic,Electronic check,94.1,701.3,No,No,No,No,Yes,Yes,0.16810907551726284,0.8318909244827372
-7225-CBZPL,Earlimart,93219,17,Month-to-month,Fiber optic,Electronic check,94.8,1563.9,No,No,No,No,Yes,Yes,0.17289983453812952,0.8271001654618705
-0187-QSXOE,Fresno,93725,7,Month-to-month,Fiber optic,Electronic check,89.0,605.45,No,No,No,No,Yes,Yes,0.17336503835406636,0.8266349616459336
-7668-XCFYV,Glendora,91741,17,Month-to-month,Fiber optic,Electronic check,92.55,1614.7,No,No,No,No,Yes,Yes,0.17356434198186543,0.8264356580181346
-4912-PIGUY,Perris,92571,1,Month-to-month,Fiber optic,Electronic check,84.6,84.6,No,No,No,No,Yes,No,0.18005426360837218,0.8199457363916278
-3096-GKWEB,Bakersfield,93306,18,Month-to-month,Fiber optic,Electronic check,94.75,1691.9,No,No,No,No,Yes,Yes,0.18133549674650318,0.8186645032534968
-8622-ZLFKO,Fresno,93710,6,Month-to-month,Fiber optic,Electronic check,90.75,512.25,No,Yes,No,No,No,Yes,0.18354320554147507,0.8164567944585249
-2545-EBUPK,Los Angeles,90045,2,Month-to-month,Fiber optic,Electronic check,84.05,186.05,No,No,No,No,No,Yes,0.18452816454703302,0.815471835452967
-3452-GWUIN,Raisin City,93652,19,Month-to-month,Fiber optic,Electronic check,94.95,1760.25,No,No,No,No,Yes,Yes,0.18524604467297612,0.8147539553270239
-7577-SWIFR,Glendale,91206,1,Month-to-month,Fiber optic,Electronic check,89.25,89.25,No,No,No,No,Yes,Yes,0.18899416272698566,0.8110058372730143
-0365-BZUWY,San Juan Capistrano,92675,17,Month-to-month,Fiber optic,Electronic check,102.55,1742.5,No,Yes,Yes,No,Yes,Yes,0.19359809665306005,0.80640190334694
-9919-KNPOO,La Mirada,90638,21,Month-to-month,Fiber optic,Electronic check,94.3,1948.35,No,No,No,No,Yes,Yes,0.19897263796616915,0.8010273620338308
-8739-XNIKG,Bakersfield,93301,5,Month-to-month,Fiber optic,Electronic check,84.0,424.75,No,No,No,No,Yes,No,0.20028133062280984,0.7997186693771902
-3320-VEOYC,Beverly Hills,90210,14,Month-to-month,Fiber optic,Electronic check,95.6,1273.3,No,No,No,No,Yes,Yes,0.2008978538514753,0.7991021461485247
-3318-NMQXL,El Monte,91731,3,Month-to-month,Fiber optic,Electronic check,92.0,266.8,No,No,No,No,Yes,Yes,0.20174603828727566,0.7982539617127243
-6350-XFYGW,Ferndale,95536,4,Month-to-month,Fiber optic,Electronic check,94.75,422.4,No,No,Yes,No,Yes,Yes,0.2043041362236946,0.7956958637763054
-9957-YODKZ,Canby,96015,6,Month-to-month,Fiber optic,Electronic check,80.8,457.1,No,No,Yes,No,No,No,0.20495276768280368,0.7950472323171963
-9334-GWGOW,Mc Kittrick,93251,7,Month-to-month,Fiber optic,Electronic check,74.85,485.25,No,No,No,No,No,No,0.20670638057192137,0.7932936194280786
-2077-MPJQO,Menlo Park,94025,7,Month-to-month,Fiber optic,Electronic check,75.4,533.05,No,No,No,No,No,No,0.20716273708750088,0.7928372629124991
-2371-JQHZZ,Bakersfield,93307,24,Month-to-month,Fiber optic,Electronic check,93.0,2248.05,No,No,No,No,Yes,Yes,0.21174171318459112,0.7882582868154089
-4847-TAJYI,Chula Vista,91911,6,Month-to-month,Fiber optic,Electronic check,89.35,567.8,No,No,No,No,Yes,Yes,0.21476071569650557,0.7852392843034944
-4853-OITSN,Oakland,94606,5,Month-to-month,Fiber optic,Electronic check,89.15,413.25,Yes,No,No,No,No,Yes,0.21634431313729063,0.7836556868627094
-4929-XIHVW,Los Angeles,90034,2,Month-to-month,Fiber optic,Credit card (automatic),95.5,181.65,No,No,Yes,No,Yes,Yes,0.2178864573666811,0.7821135426333189
-5935-FCCNB,Downey,90242,17,Month-to-month,Fiber optic,Electronic check,94.2,1608.15,No,No,No,No,Yes,Yes,0.21910363161611524,0.7808963683838848
-4115-NZRKS,San Diego,92102,7,Month-to-month,Fiber optic,Electronic check,89.15,574.35,No,No,No,No,Yes,Yes,0.2203108004804688,0.7796891995195312
-0021-IKXGC,San Marcos,92078,1,Month-to-month,Fiber optic,Electronic check,72.1,72.1,No,No,No,No,No,No,0.22042983542238248,0.7795701645776175
-4298-OYIFC,Loyalton,96118,15,Month-to-month,Fiber optic,Electronic check,103.45,1539.8,No,No,Yes,Yes,Yes,Yes,0.2210343876220926,0.7789656123779074
-2215-ZAFGX,La Mesa,91942,9,Month-to-month,Fiber optic,Electronic check,85.5,791.7,No,No,No,No,Yes,No,0.22123357457410087,0.7787664254258991
-6969-MVBAI,Davis Creek,96108,9,Month-to-month,Fiber optic,Electronic check,90.1,816.8,No,No,Yes,No,Yes,No,0.22253876587679078,0.7774612341232092
-5995-SNNEW,Whittier,90605,23,Month-to-month,Fiber optic,Electronic check,104.45,2184.85,No,Yes,Yes,No,Yes,Yes,0.2244362375942538,0.7755637624057462
-3462-BJQQA,Belvedere Tiburon,94920,6,Month-to-month,Fiber optic,Electronic check,89.75,552.65,No,Yes,No,No,Yes,No,0.22444567366603874,0.7755543263339613
-1452-VOQCH,Hinkley,92347,1,Month-to-month,Fiber optic,Electronic check,75.1,75.1,No,No,No,No,No,No,0.22452487081023254,0.7754751291897675
-4060-LDNLU,Diamond Bar,91765,7,Month-to-month,Fiber optic,Electronic check,96.2,639.7,No,No,No,No,Yes,Yes,0.22575964877903565,0.7742403512209644
-9094-AZPHK,San Bernardino,92405,15,Month-to-month,Fiber optic,Electronic check,100.15,1415.0,No,Yes,No,No,Yes,Yes,0.23118544824692178,0.7688145517530782
-4813-HQMGZ,Ducor,93218,8,Month-to-month,Fiber optic,Electronic check,90.25,743.75,No,No,No,Yes,No,Yes,0.23183539743674753,0.7681646025632525
-8775-ERLNB,Indio,92203,1,Month-to-month,Fiber optic,Electronic check,74.3,74.3,No,No,No,No,No,No,0.23266388293794482,0.7673361170620552
-7439-DKZTW,Paicines,95043,1,Month-to-month,Fiber optic,Electronic check,80.55,80.55,No,No,No,No,Yes,No,0.2343863648006771,0.7656136351993229
-0168-XZKBB,Boron,93516,19,Month-to-month,Fiber optic,Electronic check,86.85,1564.4,No,No,No,No,Yes,No,0.23490950361931384,0.7650904963806862
-6198-RTPMF,Oregon House,95962,17,Month-to-month,Fiber optic,Electronic check,92.6,1579.7,No,No,No,No,Yes,Yes,0.2350989749145488,0.7649010250854512
-6734-GMPVK,Santa Maria,93454,5,Month-to-month,Fiber optic,Electronic check,105.3,550.6,No,Yes,Yes,No,Yes,Yes,0.23524458587035169,0.7647554141296483
-7994-UYIVZ,Miramonte,93641,8,Month-to-month,Fiber optic,Bank transfer (automatic),85.65,659.45,No,No,No,No,No,Yes,0.2360753584695422,0.7639246415304578
-8087-LGYHQ,Crestline,92325,9,Month-to-month,Fiber optic,Electronic check,94.05,811.65,No,No,Yes,No,Yes,Yes,0.23675933191823206,0.7632406680817679
-6583-KQJLK,Twin Bridges,95735,15,Month-to-month,Fiber optic,Electronic check,94.65,1285.05,No,Yes,No,No,Yes,Yes,0.23748324123087794,0.7625167587691221
-1173-XZPYF,Torrance,90501,11,Month-to-month,Fiber optic,Electronic check,89.2,990.3,No,No,Yes,No,Yes,No,0.2379914594151119,0.7620085405848881
-7363-QTBIW,Scotts Valley,95066,9,Month-to-month,Fiber optic,Electronic check,79.75,769.1,No,No,No,No,No,Yes,0.238591242675539,0.761408757324461
-4123-DVHPH,Orinda,94563,9,Month-to-month,Fiber optic,Electronic check,88.05,801.3,Yes,No,No,No,No,Yes,0.23899749055787967,0.7610025094421203
-4090-KPJIP,Anaheim,92806,3,Month-to-month,Fiber optic,Electronic check,74.95,212.4,No,No,No,No,No,No,0.23921390364302897,0.760786096356971
-9799-CAYJJ,West Hills,91307,2,Month-to-month,Fiber optic,Electronic check,69.3,153.8,No,No,No,No,No,No,0.23934580931534977,0.7606541906846502
-2880-FPNAE,Van Nuys,91405,2,Month-to-month,Fiber optic,Electronic check,74.2,140.1,No,No,Yes,No,No,No,0.23963121789199293,0.7603687821080071
-4234-XTNEA,Irvine,92606,2,Month-to-month,Fiber optic,Electronic check,79.95,174.45,No,No,No,No,Yes,No,0.23991944585979486,0.7600805541402051
-1197-BVMVG,Friant,93626,4,Month-to-month,Fiber optic,Electronic check,74.45,294.45,No,No,No,No,No,No,0.24041155321873753,0.7595884467812625
-5348-CAGXB,Irvine,92614,12,Month-to-month,Fiber optic,Electronic check,89.55,1021.75,No,No,Yes,No,Yes,No,0.2415226319998658,0.7584773680001342
-7321-VGNKU,Paskenta,96074,2,Month-to-month,Fiber optic,Electronic check,70.35,120.25,No,No,No,No,No,No,0.24481884282192834,0.7551811571780717
-4749-OJKQU,San Jose,95132,4,Month-to-month,Fiber optic,Electronic check,75.65,302.35,No,No,No,No,No,No,0.24604173612642455,0.7539582638735755
-7858-GTZSP,San Lucas,93954,12,Month-to-month,Fiber optic,Electronic check,86.55,1066.9,No,No,No,No,No,Yes,0.24738420700010066,0.7526157929998993
-8107-KNCIM,San Francisco,94111,14,Month-to-month,Fiber optic,Electronic check,75.1,1013.35,No,No,No,No,No,No,0.248188650795788,0.751811349204212
-3422-GALYP,Phillipsville,95559,2,Month-to-month,Fiber optic,Electronic check,79.45,145.15,No,Yes,No,No,No,No,0.2493700070550704,0.7506299929449296
-6357-JJPQT,San Gabriel,91776,3,Month-to-month,Fiber optic,Electronic check,80.5,232.35,No,No,No,No,Yes,No,0.24960766538950807,0.7503923346104919
-7044-YAACC,Napa,94559,4,Month-to-month,Fiber optic,Electronic check,70.2,280.35,No,No,No,No,No,No,0.2496469020889921,0.7503530979110079
-1393-IMKZG,Fullerton,92831,1,Month-to-month,Fiber optic,Electronic check,95.85,95.85,No,No,No,Yes,Yes,Yes,0.2505961430824062,0.7494038569175938
-2789-HQBOU,Bakersfield,93306,3,Month-to-month,Fiber optic,Electronic check,80.35,253.8,No,No,No,No,No,Yes,0.2509068881496075,0.7490931118503925
-5382-SOYZL,Concord,94519,22,Month-to-month,Fiber optic,Electronic check,95.1,2162.6,No,No,No,No,Yes,Yes,0.2516661813232859,0.7483338186767141
-0480-BIXDE,Beale Afb,95903,19,Month-to-month,Fiber optic,Electronic check,96.8,1743.05,No,No,Yes,No,Yes,Yes,0.25241892904660834,0.7475810709533917
-2876-GZYZC,Cerritos,90703,13,Month-to-month,Fiber optic,Electronic check,85.95,1215.65,No,No,No,No,No,Yes,0.25312267957279444,0.7468773204272056
-1960-UYCNN,Julian,92036,10,Month-to-month,Fiber optic,Electronic check,95.25,1021.55,No,Yes,Yes,No,No,Yes,0.2540421366129727,0.7459578633870273
-3338-CVVEH,Chula Vista,91913,12,Month-to-month,Fiber optic,Electronic check,94.55,1173.55,No,No,No,No,Yes,Yes,0.25489791682443963,0.7451020831755604
-3427-GGZZI,Midpines,95345,19,Month-to-month,Fiber optic,Electronic check,89.1,1620.8,No,Yes,No,No,No,Yes,0.25658057616926166,0.7434194238307383
-4132-KALRO,Davis Creek,96108,4,Month-to-month,Fiber optic,Mailed check,100.85,399.25,No,No,No,Yes,Yes,Yes,0.25671694065687145,0.7432830593431285
-1628-BIZYP,Brentwood,94513,1,Month-to-month,Fiber optic,Electronic check,85.0,85.0,No,Yes,No,No,No,Yes,0.2581497397700091,0.7418502602299909
-2799-ARNLO,Bonsall,92003,5,Month-to-month,Fiber optic,Electronic check,69.35,341.6,No,No,No,No,No,No,0.2582356078535608,0.7417643921464392
-2985-FMWYF,Myers Flat,95554,23,Month-to-month,Fiber optic,Electronic check,93.5,2341.55,No,No,No,No,Yes,Yes,0.2595708071232481,0.7404291928767519
-6229-LSCKB,Encino,91436,6,Month-to-month,Fiber optic,Electronic check,79.7,497.6,No,No,No,No,Yes,No,0.26029607269130584,0.7397039273086942
-0018-NYROU,Antelope,95843,5,Month-to-month,Fiber optic,Electronic check,68.95,351.5,No,No,No,No,No,No,0.26256871911065416,0.7374312808893458
-9290-SHCMB,Brownsville,95919,13,Month-to-month,Fiber optic,Electronic check,96.85,1235.55,No,No,Yes,No,Yes,Yes,0.26300611364868676,0.7369938863513132
-9360-OMDZZ,Herald,95638,24,Month-to-month,Fiber optic,Electronic check,94.1,2322.85,No,No,No,No,Yes,Yes,0.26355678060823773,0.7364432193917623
-5956-YHHRX,Pilot Hill,95664,21,Month-to-month,Fiber optic,Electronic check,104.35,2271.85,No,Yes,Yes,No,Yes,Yes,0.26378096844181964,0.7362190315581804
-0840-DFEZH,Los Angeles,90036,7,Month-to-month,Fiber optic,Electronic check,75.35,564.65,No,No,No,No,No,No,0.2649309421692596,0.7350690578307404
-5429-LWCMV,Gardena,90248,12,Month-to-month,Fiber optic,Electronic check,89.15,1057.55,No,Yes,No,No,No,Yes,0.2655020078663951,0.7344979921336049
-6507-ZJSUR,Albion,95410,23,Month-to-month,Fiber optic,Electronic check,90.45,2117.25,No,No,No,No,Yes,Yes,0.26566546602374874,0.7343345339762513
-3292-PBZEJ,Greenview,96037,11,Month-to-month,Fiber optic,Electronic check,111.4,1183.05,No,Yes,Yes,Yes,Yes,Yes,0.26596024625598313,0.7340397537440169
-4301-VVZKA,San Francisco,94123,16,Month-to-month,Fiber optic,Electronic check,75.4,1189.4,No,No,No,No,No,No,0.2659986386658991,0.7340013613341009
-3030-YDNRM,Pasadena,91107,8,Month-to-month,Fiber optic,Electronic check,74.85,572.45,No,No,No,No,No,No,0.26787720188767616,0.7321227981123238
-6986-IXNDM,Three Rivers,93271,14,Month-to-month,Fiber optic,Electronic check,92.9,1337.45,No,No,No,No,Yes,Yes,0.2687337496871848,0.7312662503128152
-3317-VLGQT,Wallace,95254,14,Month-to-month,Fiber optic,Electronic check,78.1,1122.4,No,No,No,No,No,Yes,0.26881065330666787,0.7311893466933321
-6860-YRJZP,Sacramento,95820,9,Month-to-month,Fiber optic,Electronic check,74.05,678.45,No,No,No,No,No,No,0.2688693147947765,0.7311306852052235
-4445-ZJNMU,Manhattan Beach,90266,9,Month-to-month,Fiber optic,Credit card (automatic),99.3,918.75,No,Yes,No,No,Yes,Yes,0.26947343901929754,0.7305265609807025
-8541-QVFKM,Long Beach,90807,8,Month-to-month,Fiber optic,Electronic check,73.5,632.2,No,No,No,No,No,No,0.2696833769198257,0.7303166230801743
-3199-XGZCY,Granada Hills,91344,8,Month-to-month,Fiber optic,Electronic check,75.25,576.7,No,No,No,No,No,No,0.2714295453886161,0.7285704546113839
-7402-EYFXX,Salyer,95563,26,Month-to-month,Fiber optic,Electronic check,93.6,2404.1,No,No,No,No,Yes,Yes,0.27143095337724943,0.7285690466227506
-9402-ORRAH,La Canada Flintridge,91011,15,Month-to-month,Fiber optic,Electronic check,91.5,1400.3,No,No,No,No,Yes,Yes,0.27229261166749497,0.727707388332505
-7392-YYPYJ,Santa Ana,92706,22,Month-to-month,Fiber optic,Electronic check,100.65,2415.95,No,Yes,No,No,Yes,Yes,0.2729347836624375,0.7270652163375625
-2123-AGEEN,Millbrae,94030,7,Month-to-month,Fiber optic,Electronic check,84.35,609.65,No,No,Yes,No,Yes,No,0.27319405713436606,0.7268059428656339
-4559-UWIHT,Atascadero,93422,14,Month-to-month,Fiber optic,Electronic check,82.65,1185.0,No,Yes,Yes,No,No,No,0.2747027419522,0.7252972580478
-5937-EORGB,Five Points,93624,15,Month-to-month,Fiber optic,Electronic check,96.5,1392.25,Yes,No,Yes,No,Yes,No,0.2750484031418966,0.7249515968581034
-3295-YVUSR,Glendale,91202,2,Month-to-month,Fiber optic,Mailed check,72.6,154.3,No,No,No,No,No,No,0.27526515854430733,0.7247348414556927
-7354-OIJLX,Inglewood,90305,9,Month-to-month,Fiber optic,Electronic check,75.85,724.65,No,No,No,No,No,No,0.27552985735870406,0.7244701426412959
-5928-QLDHB,San Fernando,91340,9,Month-to-month,Fiber optic,Electronic check,76.25,684.85,No,No,No,No,No,No,0.2759337313226675,0.7240662686773325
-9903-LYSAB,Studio City,91604,18,Month-to-month,Fiber optic,Electronic check,73.15,1305.95,No,No,No,No,No,No,0.2770469565261868,0.7229530434738132
-5760-IFJOZ,Richgrove,93261,3,Month-to-month,Fiber optic,Mailed check,107.95,313.6,No,Yes,Yes,No,Yes,Yes,0.2773169448287144,0.7226830551712856
-6215-NQCPY,Yreka,96097,15,Month-to-month,Fiber optic,Electronic check,99.7,1566.75,Yes,No,No,No,Yes,Yes,0.2775251926420105,0.7224748073579895
-8242-SOQUO,Oakland,94619,5,Month-to-month,Fiber optic,Electronic check,84.7,392.5,No,Yes,No,No,Yes,No,0.2779100255975644,0.7220899744024356
-1219-NNDDO,Los Angeles,90015,9,Month-to-month,Fiber optic,Electronic check,76.85,663.55,No,No,No,No,No,No,0.27975581862119525,0.7202441813788047
-4395-PZMSN,San Gregorio,94074,5,Month-to-month,Fiber optic,Electronic check,85.55,408.5,No,Yes,No,No,No,Yes,0.28032058296507056,0.7196794170349294
-6851-WEFYX,Descanso,91916,35,Month-to-month,Fiber optic,Electronic check,100.8,3437.5,No,No,Yes,No,Yes,Yes,0.28152184911113154,0.7184781508888685
-6116-RFVHN,Roseville,95747,34,Month-to-month,Fiber optic,Electronic check,100.45,3414.65,No,No,Yes,No,Yes,Yes,0.282564368747689,0.717435631252311
-1200-TUZHR,Posey,93260,8,Month-to-month,Fiber optic,Electronic check,85.2,695.75,No,No,No,No,No,Yes,0.28447395165561395,0.715526048344386
-9603-OAIHC,Palmdale,93551,1,Month-to-month,Fiber optic,Electronic check,70.05,70.05,No,No,No,No,No,No,0.2847993362187802,0.7152006637812198
-2688-BHGOG,Olancha,93549,9,Month-to-month,Fiber optic,Electronic check,79.55,718.55,No,No,No,No,No,Yes,0.2848289357918662,0.7151710642081338
-8875-AKBYH,Mineral,96063,20,Month-to-month,Fiber optic,Electronic check,84.35,1745.2,No,No,No,No,Yes,No,0.28515808525288644,0.7148419147471136
-2235-DWLJU,Thousand Palms,92276,6,Month-to-month,DSL,Electronic check,44.4,263.05,No,No,No,No,Yes,Yes,0.28549406540089173,0.7145059345991083
-6856-RAURS,Rio Oso,95674,2,Month-to-month,Fiber optic,Mailed check,74.9,136.05,No,No,No,No,No,No,0.2857929446041998,0.7142070553958002
-2081-VEYEH,Compton,90221,3,Month-to-month,Fiber optic,Electronic check,107.95,318.6,No,Yes,Yes,Yes,Yes,Yes,0.2873426069642563,0.7126573930357437
-9121-PHQSR,Stratford,93266,16,Month-to-month,Fiber optic,Credit card (automatic),85.05,1391.15,No,No,No,No,Yes,No,0.28803899113543985,0.7119610088645602
-2984-AFWNC,Rough And Ready,95975,3,Month-to-month,Fiber optic,Electronic check,95.4,293.15,No,Yes,No,No,Yes,Yes,0.28817789209997635,0.7118221079000236
-9605-WGJVW,Stockton,95204,1,Month-to-month,Fiber optic,Electronic check,70.2,70.2,No,No,No,No,No,No,0.28822828209525064,0.7117717179047494
-4633-MKHYU,San Diego,92109,9,Month-to-month,Fiber optic,Mailed check,88.4,788.6,No,No,No,No,Yes,Yes,0.2888599225431603,0.7111400774568397
-0396-YCHWO,Sacramento,95829,36,Month-to-month,Fiber optic,Electronic check,95.4,3474.2,No,No,No,No,Yes,Yes,0.2892776259644033,0.7107223740355967
-3878-AVSOQ,La Jolla,92037,1,Month-to-month,Fiber optic,Electronic check,71.25,71.25,No,No,No,No,No,No,0.2893186015952596,0.7106813984047404
-5542-TBBWB,Lakeport,95453,1,Month-to-month,Fiber optic,Electronic check,69.9,69.9,No,No,No,No,No,No,0.28966427915853066,0.7103357208414693
-7465-ZZRVX,Ceres,95307,1,Month-to-month,Fiber optic,Electronic check,70.35,70.35,No,No,No,No,No,No,0.29013263771714537,0.7098673622828546
-4521-YEEHE,Anaheim,92805,18,Month-to-month,Fiber optic,Electronic check,88.85,1594.75,No,No,No,Yes,Yes,No,0.2905814360115817,0.7094185639884183
-8313-NDOIA,Green Valley Lake,92341,24,Month-to-month,Fiber optic,Electronic check,104.15,2494.65,No,Yes,Yes,No,Yes,Yes,0.2919307384474683,0.7080692615525317
-4566-NECEV,Palos Verdes Peninsula,90274,5,Month-to-month,Fiber optic,Electronic check,96.55,500.1,No,Yes,Yes,No,No,Yes,0.29263257634856654,0.7073674236514335
-1640-PLFMP,Los Angeles,90026,1,Month-to-month,Fiber optic,Electronic check,70.25,70.25,No,No,No,No,No,No,0.2933373566352204,0.7066626433647796
-0722-SVSFK,Half Moon Bay,94019,7,Month-to-month,Fiber optic,Electronic check,100.4,715.0,No,No,Yes,Yes,Yes,Yes,0.29361153628163184,0.7063884637183682
-5117-IFGPS,Tahoe City,96145,29,Month-to-month,Fiber optic,Electronic check,84.3,2357.75,No,No,No,No,No,Yes,0.2943533043285148,0.7056466956714852
-7206-PQBBZ,Fontana,92336,11,Month-to-month,Fiber optic,Electronic check,70.2,834.7,No,No,No,No,No,No,0.296261872227387,0.703738127772613
-2897-DOVND,Winterhaven,92283,2,Month-to-month,Fiber optic,Electronic check,69.8,146.65,No,No,No,No,No,No,0.29652483797901574,0.7034751620209843
-2665-NPTGL,Sheep Ranch,95250,26,Month-to-month,Fiber optic,Bank transfer (automatic),98.1,2510.7,No,No,Yes,No,Yes,Yes,0.29682511071619444,0.7031748892838056
-9717-QEBGU,Leggett,95585,2,Month-to-month,Fiber optic,Electronic check,70.3,144.0,No,No,No,No,No,No,0.2970524354728693,0.7029475645271307
-5288-AHOUP,Palm Desert,92260,11,Month-to-month,Fiber optic,Electronic check,78.5,874.2,No,No,No,No,No,Yes,0.29761030025311586,0.7023896997468841
-4482-EWFMI,Arcadia,91006,2,Month-to-month,Fiber optic,Electronic check,69.7,135.2,No,No,No,No,No,No,0.2997703468430496,0.7002296531569504
-2254-DLXRI,Burbank,91504,1,Month-to-month,Fiber optic,Mailed check,79.15,79.15,No,Yes,No,No,No,No,0.30024429671778796,0.699755703282212
-7394-LWLYN,Oakland,94610,2,Month-to-month,Fiber optic,Electronic check,70.15,123.8,No,No,No,No,No,No,0.3002481390283226,0.6997518609716774
-4884-ZTHVF,Santa Cruz,95065,8,Month-to-month,Fiber optic,Electronic check,87.1,713.6,No,Yes,No,No,Yes,No,0.30114302457899644,0.6988569754210036
-5628-FCGYG,Riverside,92509,21,Month-to-month,Fiber optic,Electronic check,84.1,1737.45,No,No,No,No,No,Yes,0.3018628789079998,0.6981371210920002
-7823-JSOAG,Sonoma,95476,3,Month-to-month,Fiber optic,Electronic check,74.5,217.45,No,No,No,No,No,No,0.3059281362630174,0.6940718637369826
-0644-OQMDK,Merced,95348,4,Month-to-month,Fiber optic,Electronic check,70.65,293.85,No,No,No,No,No,No,0.3064247771331804,0.6935752228668196
-7245-NIIWQ,Fellows,93224,3,Month-to-month,Fiber optic,Electronic check,69.85,199.85,No,No,No,No,No,No,0.3070357582114014,0.6929642417885986
-5701-YVSVF,Fallbrook,92028,11,Month-to-month,Fiber optic,Electronic check,82.9,880.05,No,No,No,Yes,Yes,No,0.3070951904366469,0.6929048095633531
-6077-BDPXA,Merced,95340,3,Month-to-month,Fiber optic,Electronic check,70.15,194.2,No,No,No,No,No,No,0.3073585687766526,0.6926414312233474
-5119-NZPTV,Sacramento,95823,2,Month-to-month,Fiber optic,Electronic check,70.1,141.65,No,No,No,No,No,No,0.307425990018934,0.692574009981066
-9633-XQABV,Los Banos,93635,3,Month-to-month,Fiber optic,Electronic check,70.25,229.7,No,No,No,No,No,No,0.30746621424222964,0.6925337857577704
-1508-DFXCU,Riverside,92501,12,Month-to-month,Fiber optic,Electronic check,81.45,912.0,No,No,No,No,Yes,No,0.30802984473527306,0.6919701552647269
-2754-SDJRD,Somis,93066,8,Month-to-month,Fiber optic,Credit card (automatic),100.15,908.55,No,No,No,Yes,Yes,Yes,0.3088958804398716,0.6911041195601284
-3629-ZNKXA,Seiad Valley,96086,17,Month-to-month,Fiber optic,Electronic check,101.8,1752.45,No,Yes,Yes,No,Yes,Yes,0.30895430613553965,0.6910456938644604
-3370-HXOPH,Mountain View,94041,3,Month-to-month,Fiber optic,Electronic check,76.1,257.6,No,No,No,No,No,No,0.31107029440556333,0.6889297055944367
-5216-WASFJ,Challenge,95925,31,Month-to-month,Fiber optic,Electronic check,84.85,2633.4,No,No,No,No,No,Yes,0.312533928547184,0.687466071452816
-8873-GLDMH,Courtland,95615,6,Month-to-month,Fiber optic,Mailed check,73.85,401.3,No,No,No,No,No,No,0.31286960430723654,0.6871303956927635
-1028-FFNJK,Burbank,91504,30,Month-to-month,Fiber optic,Electronic check,101.5,2917.65,No,No,No,Yes,Yes,Yes,0.31377034756950095,0.686229652430499
-9696-RMYBA,Los Angeles,90003,5,Month-to-month,Fiber optic,Mailed check,80.1,398.55,No,No,No,No,Yes,No,0.31506504076745223,0.6849349592325478
-1251-STYSZ,Glenhaven,95443,4,Month-to-month,Fiber optic,Electronic check,80.25,303.7,Yes,No,No,No,No,No,0.3151720842905076,0.6848279157094924
-3904-UKFRE,Stockton,95205,4,Month-to-month,Fiber optic,Electronic check,80.1,336.15,Yes,No,No,No,No,No,0.31684672780808754,0.6831532721919125
-4770-UEZOX,Whitethorn,95589,2,Month-to-month,Fiber optic,Electronic check,74.75,144.8,No,Yes,No,No,No,No,0.3193038635209454,0.6806961364790546
-9279-CJEOJ,Anaheim,92801,21,Month-to-month,Fiber optic,Bank transfer (automatic),95.4,2025.1,No,No,No,No,Yes,Yes,0.31958408902750624,0.6804159109724938
-0793-TWELN,Los Angeles,90026,4,Month-to-month,Fiber optic,Electronic check,80.15,319.85,Yes,No,No,No,No,No,0.3203785228718927,0.6796214771281073
-0432-CAJZV,Onyx,93255,3,Month-to-month,Fiber optic,Mailed check,90.7,237.65,No,No,No,No,Yes,Yes,0.3206100484159412,0.6793899515840588
-1104-TNLZA,Klamath River,96050,28,Month-to-month,Fiber optic,Electronic check,105.8,2998.0,No,Yes,No,Yes,Yes,Yes,0.32166147269381506,0.6783385273061849
-6435-SRWBJ,Los Angeles,90068,5,Month-to-month,Fiber optic,Electronic check,82.75,417.75,No,No,Yes,Yes,No,No,0.3217432649567107,0.6782567350432893
-2439-LYPMQ,Milford,96121,38,Month-to-month,Fiber optic,Electronic check,102.6,4009.2,No,Yes,Yes,No,Yes,Yes,0.3218975116539069,0.6781024883460931
-0928-XUTSN,Brawley,92227,13,Month-to-month,Fiber optic,Electronic check,80.5,1011.8,No,No,No,No,No,Yes,0.32282566008010927,0.6771743399198907
-2674-MIAHT,Blocksburg,95514,4,Month-to-month,Fiber optic,Mailed check,80.3,324.2,No,Yes,No,No,No,No,0.32312154707049556,0.6768784529295044
-6267-DCFFZ,Madeline,96119,30,Month-to-month,Fiber optic,Electronic check,90.05,2627.2,No,Yes,No,No,Yes,No,0.3235676719330298,0.6764323280669702
-0848-ZGQIJ,Saratoga,95070,16,Month-to-month,Fiber optic,Bank transfer (automatic),94.65,1461.15,No,Yes,No,No,Yes,Yes,0.3243797005576482,0.6756202994423518
-3453-RTHJQ,San Bernardino,92407,6,Month-to-month,Fiber optic,Electronic check,69.1,435.0,No,No,No,No,No,No,0.3245445796870283,0.6754554203129717
-6198-ZFIOJ,Willits,95490,5,Month-to-month,Fiber optic,Electronic check,75.6,402.5,No,No,No,No,No,No,0.3251047511669354,0.6748952488330646
-3420-YJLQT,Alturas,96101,2,Month-to-month,Fiber optic,Electronic check,79.55,151.75,No,Yes,No,No,No,No,0.32532760608841194,0.6746723939115881
-3496-LFSZU,Anaheim,92801,4,Month-to-month,Fiber optic,Electronic check,70.5,294.2,No,No,No,No,No,No,0.32774573054460543,0.6722542694553946
-2809-ZMYOQ,Camptonville,95922,32,Month-to-month,Fiber optic,Electronic check,101.35,3334.9,No,No,Yes,No,Yes,Yes,0.3289073811716636,0.6710926188283364
-6030-REHUX,Fountain Valley,92708,28,Month-to-month,Fiber optic,Electronic check,110.85,3204.4,No,Yes,Yes,Yes,Yes,Yes,0.32920334632750914,0.6707966536724909
-2107-FBPTK,Ramona,92065,30,Month-to-month,Fiber optic,Electronic check,104.1,3121.1,No,Yes,Yes,No,Yes,Yes,0.3298010511267555,0.6701989488732445
-3951-NJCVI,Cathedral City,92234,42,Month-to-month,Fiber optic,Electronic check,95.05,3944.5,No,No,No,No,Yes,Yes,0.33016122217746835,0.6698387778225317
-2504-DSHIH,Thousand Oaks,91360,23,Month-to-month,Fiber optic,Electronic check,86.8,1975.85,No,No,No,No,No,Yes,0.33018479472978957,0.6698152052702104
-0928-JMXNP,Los Molinos,96055,4,Month-to-month,DSL,Electronic check,29.9,118.25,No,No,Yes,No,No,No,0.3306860373405799,0.6693139626594201
-8266-VBFQL,Jamul,91935,4,Month-to-month,Fiber optic,Electronic check,90.4,356.65,No,No,Yes,Yes,No,Yes,0.3307482969462706,0.6692517030537294
-2905-KFQUV,Moss Beach,94038,2,Month-to-month,Fiber optic,Credit card (automatic),70.4,154.8,No,No,No,No,No,No,0.33185107350180276,0.6681489264981972
-5339-PXDVH,Clipper Mills,95930,4,Month-to-month,Fiber optic,Electronic check,90.65,367.95,Yes,No,No,No,Yes,No,0.33193664690758706,0.6680633530924129
-4647-MUZON,Port Hueneme,93041,18,Month-to-month,Fiber optic,Credit card (automatic),95.95,1745.5,No,No,Yes,No,Yes,Yes,0.3324094097727033,0.6675905902272967
-4291-SHSBH,Modesto,95354,7,Month-to-month,Fiber optic,Electronic check,69.55,521.35,No,No,No,No,No,No,0.33246217189085403,0.667537828109146
-7315-WYOAW,Santa Monica,90405,13,Month-to-month,Fiber optic,Electronic check,100.75,1313.25,No,No,No,Yes,Yes,Yes,0.33271008952522263,0.6672899104747774
-6705-LXORM,Perris,92570,5,Month-to-month,Fiber optic,Electronic check,70.05,302.6,No,No,No,No,No,No,0.3327972150424696,0.6672027849575304
-3841-CONLJ,Morro Bay,93442,1,Month-to-month,DSL,Electronic check,35.0,35.0,No,No,No,No,No,Yes,0.33332007074856396,0.666679929251436
-1226-IENZN,Los Angeles,90024,16,Month-to-month,Fiber optic,Electronic check,78.75,1218.25,No,No,No,No,No,Yes,0.3341790421745069,0.6658209578254931
-1016-DJTSV,Santee,92071,8,Month-to-month,Fiber optic,Electronic check,69.7,572.85,No,No,No,No,No,No,0.3346531078693825,0.6653468921306175
-6407-UTSLV,Compton,90222,2,Month-to-month,Fiber optic,Bank transfer (automatic),83.8,163.7,No,Yes,No,No,Yes,No,0.3350148687522917,0.6649851312477083
-2038-OEQZH,Menifee,92584,4,Month-to-month,Fiber optic,Electronic check,86.05,308.1,No,No,Yes,No,No,Yes,0.3357090078920072,0.6642909921079928
-4815-GBTCD,Wishon,93669,4,Month-to-month,DSL,Electronic check,25.15,99.95,No,No,No,No,No,No,0.3359553974426327,0.6640446025573673
-1754-GKYPY,Carson,90746,22,Month-to-month,Fiber optic,Bank transfer (automatic),89.75,1938.9,No,No,No,No,Yes,Yes,0.33643656607326244,0.6635634339267376
-6918-UMQCG,Orange,92869,5,Month-to-month,Fiber optic,Electronic check,80.2,384.25,No,No,No,No,Yes,No,0.33650129285163033,0.6634987071483697
-1475-VWVDO,Dos Palos,93620,7,Month-to-month,Fiber optic,Electronic check,74.9,490.55,No,No,Yes,No,No,No,0.33688377269962366,0.6631162273003763
-7590-VHVEG,Los Angeles,90001,1,Month-to-month,DSL,Electronic check,29.85,29.85,No,Yes,No,No,No,No,0.33702873242909837,0.6629712675709016
-7517-LDMPS,Modesto,95356,12,Month-to-month,Fiber optic,Electronic check,84.6,1017.35,No,Yes,No,No,No,Yes,0.3380929685285534,0.6619070314714466
-8325-QRPZR,Benicia,94510,7,Month-to-month,Fiber optic,Electronic check,75.15,525.0,No,No,Yes,No,No,No,0.3407547006357011,0.6592452993642989
-7801-KICAO,Pasadena,91103,18,Month-to-month,Fiber optic,Electronic check,74.15,1345.75,No,No,No,No,No,No,0.34146959345541505,0.658530406544585
-5399-ZIMKF,San Simeon,93452,5,Month-to-month,Fiber optic,Electronic check,74.65,383.65,No,Yes,No,No,No,No,0.34149905512004597,0.658500944879954
-5091-HFAZW,Santa Fe Springs,90670,2,Month-to-month,Fiber optic,Electronic check,91.15,168.5,Yes,Yes,No,No,Yes,No,0.34219538915512926,0.6578046108448707
-4716-HHKQH,Pomona,91767,20,Month-to-month,Fiber optic,Electronic check,107.05,2172.05,No,Yes,No,Yes,Yes,Yes,0.3423767663357957,0.6576232336642043
-2135-DQWAQ,Santa Barbara,93111,5,Month-to-month,Fiber optic,Mailed check,85.3,420.45,No,Yes,No,No,Yes,No,0.342463196542901,0.657536803457099
-0674-DGMAQ,Elk,95432,32,Month-to-month,Fiber optic,Electronic check,93.5,2970.8,No,Yes,Yes,No,No,Yes,0.3424823204313028,0.6575176795686972
-5652-MSDEY,Sutter Creek,95685,10,Month-to-month,Fiber optic,Mailed check,75.75,777.3,No,No,No,No,No,No,0.34464664954922186,0.6553533504507781
-3411-WLRSQ,Los Angeles,90038,3,Month-to-month,Fiber optic,Bank transfer (automatic),74.6,239.05,No,Yes,No,No,No,No,0.3454089253702102,0.6545910746297898
-8648-PFRMP,Ferndale,95536,14,Month-to-month,DSL,Electronic check,46.35,672.7,No,No,No,No,Yes,Yes,0.34557255795588093,0.6544274420441191
-9741-YLNTD,Greenfield,93927,6,Month-to-month,Fiber optic,Bank transfer (automatic),87.95,522.35,No,No,No,Yes,No,Yes,0.3459578868770353,0.6540421131229647
-0225-ZORZP,Groveland,95321,3,Month-to-month,Fiber optic,Electronic check,84.3,235.05,No,Yes,No,No,No,Yes,0.3461854673724458,0.6538145326275542
-6242-MBHPK,Hathaway Pines,95233,23,Month-to-month,Fiber optic,Electronic check,95.1,2326.05,Yes,No,No,No,Yes,Yes,0.3470232089569173,0.6529767910430827
-1078-TDCRN,Agoura Hills,91301,3,Month-to-month,DSL,Electronic check,30.75,82.85,No,Yes,No,No,No,No,0.34767007396797334,0.6523299260320267
-8035-PWSEV,Hayward,94542,6,Month-to-month,Fiber optic,Electronic check,89.25,487.05,No,No,Yes,Yes,No,Yes,0.34810867575606086,0.6518913242439391
-8309-IEYJD,Indian Wells,92210,1,Month-to-month,Fiber optic,Mailed check,70.6,70.6,No,No,No,No,No,No,0.3481862342681711,0.6518137657318289
-8270-RKSAP,Anaheim,92801,9,Month-to-month,Fiber optic,Electronic check,70.5,597.9,No,No,No,No,No,No,0.34863863552664,0.65136136447336
-9617-INGJY,Manhattan Beach,90266,1,Month-to-month,Fiber optic,Mailed check,70.6,70.6,No,No,No,No,No,No,0.35011919795447544,0.6498808020455246
-6339-YPSAH,Tehama,96090,9,Month-to-month,Fiber optic,Electronic check,73.8,704.3,No,No,Yes,No,No,No,0.3507974966402362,0.6492025033597638
-8714-CTZJW,Pilot Hill,95664,4,Month-to-month,Fiber optic,Credit card (automatic),82.85,319.6,No,No,Yes,No,No,Yes,0.35152630313220423,0.6484736968677958
-0258-NOKBL,Fortuna,95540,3,Month-to-month,Fiber optic,Electronic check,90.4,268.45,No,Yes,Yes,No,No,Yes,0.35155763830870135,0.6484423616912987
-0749-IRGQE,Buena Park,90621,13,Month-to-month,DSL,Electronic check,45.3,528.45,No,No,No,No,Yes,Yes,0.3537124446889227,0.6462875553110773
-5032-MIYKT,Weott,95571,1,Month-to-month,Fiber optic,Mailed check,70.7,70.7,No,No,No,No,No,No,0.35388757988375386,0.6461124201162461
-4583-PARNH,Kerman,93630,16,Month-to-month,Fiber optic,Electronic check,91.55,1540.05,No,No,Yes,Yes,No,Yes,0.35402020372872167,0.6459797962712783
-8709-KRDVL,Scott Bar,96085,33,Month-to-month,Fiber optic,Electronic check,100.0,3320.6,No,Yes,No,No,Yes,Yes,0.3549745073411297,0.6450254926588703
-4299-SIMNS,Temple City,91780,9,Month-to-month,Fiber optic,Electronic check,81.15,784.45,Yes,No,No,No,No,No,0.3555120916227851,0.6444879083772149
-7422-WNBTY,Green Valley Lake,92341,33,Month-to-month,Fiber optic,Electronic check,93.35,3092.0,No,Yes,Yes,No,No,Yes,0.3555183911830321,0.6444816088169679
-8132-YPVBX,Salinas,93907,6,Month-to-month,Fiber optic,Mailed check,85.95,514.6,No,Yes,No,No,No,Yes,0.3562373795996152,0.6437626204003848
-0411-EZJZE,Stockton,95215,3,Month-to-month,DSL,Electronic check,60.25,170.5,No,No,No,No,Yes,No,0.35634292018276015,0.6436570798172399
-0899-LIIBW,Forks Of Salmon,96031,34,Month-to-month,Fiber optic,Electronic check,100.85,3527.3,No,No,Yes,No,Yes,Yes,0.35670127827990283,0.6432987217200972
-5044-LRQAQ,Ladera Ranch,92694,7,Month-to-month,Fiber optic,Bank transfer (automatic),69.2,477.55,No,No,No,No,No,No,0.3567524286631185,0.6432475713368815
-7379-FNIUJ,Olympic Valley,96146,2,Month-to-month,Fiber optic,Electronic check,100.2,198.5,Yes,Yes,No,No,Yes,Yes,0.3578828943896267,0.6421171056103733
-0139-IVFJG,Inyokern,93527,2,Month-to-month,Fiber optic,Electronic check,90.35,190.5,Yes,Yes,No,No,Yes,No,0.3582781929308916,0.6417218070691084
-9208-OLGAQ,Berkeley,94709,18,Month-to-month,Fiber optic,Electronic check,84.95,1443.65,No,No,Yes,No,No,Yes,0.35848747880754284,0.6415125211924572
-9494-MRNYX,Meadow Valley,95956,10,Month-to-month,Fiber optic,Electronic check,75.05,786.3,No,No,No,No,No,No,0.35867706060189897,0.641322939398101
-7176-WIONM,Bishop,93514,12,Month-to-month,DSL,Bank transfer (automatic),49.85,617.15,No,No,Yes,No,Yes,Yes,0.35952322925930535,0.6404767707406946
-1751-NCDLI,Castroville,95012,46,Month-to-month,Fiber optic,Electronic check,98.85,4564.9,No,No,Yes,No,Yes,Yes,0.3596291790600361,0.6403708209399639
-4686-UXDML,Cutler,93615,21,Month-to-month,Fiber optic,Credit card (automatic),99.85,1992.55,No,Yes,No,No,Yes,Yes,0.360067748468722,0.639932251531278
-0491-KAPQG,Pine Valley,91962,21,Month-to-month,Fiber optic,Electronic check,73.7,1558.7,No,No,No,No,No,No,0.3602716375852254,0.6397283624147746
-3003-CMDUU,Santa Paula,93060,25,Month-to-month,Fiber optic,Electronic check,95.15,2395.7,No,No,No,Yes,Yes,Yes,0.3604412516751495,0.6395587483248505
-1766-GKNMI,Bakersfield,93307,29,Month-to-month,Fiber optic,Electronic check,84.9,2516.2,No,No,No,No,No,Yes,0.36228853252283677,0.6377114674771632
-5405-ZMYXQ,Los Angeles,90019,8,Month-to-month,Fiber optic,Credit card (automatic),74.6,548.9,No,No,No,No,No,No,0.36255160027210953,0.6374483997278905
-5233-AOZUF,Palm Springs,92262,29,Month-to-month,Fiber optic,Electronic check,74.95,2149.05,No,No,No,No,No,No,0.36256909198353926,0.6374309080164607
-6496-JDSSB,Oak Park,91377,8,Month-to-month,Fiber optic,Bank transfer (automatic),80.0,624.6,No,No,No,No,Yes,No,0.36343918981015,0.63656081018985
-4983-CCWMC,Creston,93432,3,Month-to-month,Fiber optic,Mailed check,69.6,207.4,No,No,No,No,No,No,0.36439636090510685,0.6356036390948931
-2969-QWUBZ,Los Altos,94022,2,Month-to-month,DSL,Electronic check,51.4,96.8,No,Yes,No,No,Yes,Yes,0.36494334619270286,0.6350566538072971
-3211-AAPKX,Woodland,95776,20,Month-to-month,Fiber optic,Mailed check,98.55,2031.95,No,No,No,Yes,Yes,Yes,0.3652055101652377,0.6347944898347623
-4029-HPFVY,San Francisco,94118,3,Month-to-month,Fiber optic,Mailed check,70.3,220.4,No,No,No,No,No,No,0.36521645961117843,0.6347835403888216
-1666-JXLKU,Shingle Springs,95682,37,Month-to-month,Fiber optic,Electronic check,100.05,3810.55,No,No,Yes,No,Yes,Yes,0.3654914063881376,0.6345085936118624
-4059-IIEBK,Ojai,93023,7,Month-to-month,Fiber optic,Bank transfer (automatic),78.55,522.95,No,Yes,No,No,No,No,0.3663879581345182,0.6336120418654818
-7714-YXSMB,Irvine,92612,26,Month-to-month,Fiber optic,Bank transfer (automatic),100.5,2599.95,No,No,Yes,No,Yes,Yes,0.3671476750651286,0.6328523249348714
-0447-RXSGD,Monterey,93940,24,Month-to-month,Fiber optic,Bank transfer (automatic),99.65,2404.85,No,Yes,No,No,Yes,Yes,0.3675060826548815,0.6324939173451185
-1932-UEDCX,Manchester,95459,33,Month-to-month,Fiber optic,Bank transfer (automatic),100.6,3270.25,No,Yes,No,No,Yes,Yes,0.3678594228029187,0.6321405771970813
-4536-PLEQY,Los Angeles,90058,12,Month-to-month,Fiber optic,Credit card (automatic),85.05,999.8,No,Yes,No,No,No,Yes,0.36806737487177077,0.6319326251282292
-3365-SAIGS,Rancho Santa Fe,92067,17,Month-to-month,Fiber optic,Electronic check,83.55,1329.15,No,Yes,No,No,Yes,No,0.369883729266377,0.630116270733623
-5879-SESNB,Moraga,94556,11,Month-to-month,Fiber optic,Electronic check,75.25,888.65,No,No,No,No,No,No,0.37040846049079057,0.6295915395092094
-5989-PGKJB,San Diego,92121,16,Month-to-month,Fiber optic,Electronic check,86.25,1340.1,No,Yes,No,No,No,Yes,0.370753542092604,0.629246457907396
-3597-MVHJT,Brawley,92227,27,Month-to-month,Fiber optic,Bank transfer (automatic),95.6,2595.25,No,No,No,No,Yes,Yes,0.370881658649464,0.629118341350536
-0196-JTUQI,Clarksburg,95612,9,Month-to-month,Fiber optic,Credit card (automatic),75.2,633.85,No,No,No,No,No,No,0.37106425474793525,0.6289357452520647
-6833-JMZYP,Hesperia,92345,15,Month-to-month,Fiber optic,Credit card (automatic),94.0,1505.45,No,No,Yes,No,Yes,Yes,0.37128915130460116,0.6287108486953988
-5119-KEPFY,San Jose,95131,36,Month-to-month,Fiber optic,Bank transfer (automatic),95.0,3440.25,No,No,No,No,Yes,Yes,0.37139260980367483,0.6286073901963252
-4612-SSVHJ,Yermo,92398,20,Month-to-month,Fiber optic,Electronic check,81.45,1671.6,No,No,No,No,No,Yes,0.37163687889426145,0.6283631211057386
-2262-SLNVK,Birds Landing,94512,1,Month-to-month,Fiber optic,Electronic check,70.1,70.1,No,No,No,No,No,No,0.37193396730184014,0.6280660326981599
-9050-IKDZA,Clovis,93611,2,Month-to-month,Fiber optic,Mailed check,81.5,162.55,No,No,No,No,Yes,No,0.3722046288756007,0.6277953711243993
-2800-VEQXM,Lebec,93243,3,Month-to-month,Fiber optic,Mailed check,74.75,238.1,No,No,Yes,No,No,No,0.37250832980892135,0.6274916701910787
-7365-BVCJH,Trinity Center,96091,1,Month-to-month,DSL,Electronic check,24.4,24.4,No,No,No,No,No,No,0.3726881230116872,0.6273118769883128
-9133-AYJZG,Mill Valley,94941,23,Month-to-month,Fiber optic,Credit card (automatic),98.7,2249.1,No,Yes,No,No,Yes,Yes,0.37433916657323785,0.6256608334267622
-0420-HLGXF,Visalia,93291,39,Month-to-month,Fiber optic,Electronic check,99.75,4036.0,No,No,Yes,No,Yes,Yes,0.37509784276012736,0.6249021572398726
-3312-UUMZW,San Jose,95117,32,Month-to-month,Fiber optic,Credit card (automatic),98.85,3145.9,No,Yes,No,No,Yes,Yes,0.3757410581891867,0.6242589418108133
-3420-ZDBMA,Brea,92821,5,Month-to-month,Fiber optic,Mailed check,71.45,371.6,No,No,No,No,No,No,0.37653939901389544,0.6234606009861046
-5043-TRZWM,Los Angeles,90022,1,Month-to-month,Fiber optic,Electronic check,75.55,75.55,No,No,Yes,No,No,No,0.3767030808033497,0.6232969191966503
-5453-AXEPF,San Jose,95134,17,Month-to-month,Fiber optic,Bank transfer (automatic),80.5,1336.9,No,Yes,No,No,No,No,0.37776555538291756,0.6222344446170824
-0434-CSFON,Los Angeles,90071,47,Month-to-month,Fiber optic,Electronic check,100.5,4707.1,No,No,Yes,No,Yes,Yes,0.3788398154881041,0.6211601845118959
-8903-WMRNW,Durham,95938,15,Month-to-month,Fiber optic,Electronic check,101.75,1669.4,Yes,No,Yes,No,Yes,Yes,0.37893019956794183,0.6210698004320582
-9506-UXUSK,San Jose,95116,13,Month-to-month,Fiber optic,Electronic check,70.15,931.75,No,No,No,No,No,No,0.3793467820192997,0.6206532179807003
-7952-OBOYL,Upland,91786,3,Month-to-month,Fiber optic,Mailed check,89.85,244.45,No,No,Yes,Yes,Yes,No,0.37990767785130697,0.620092322148693
-5442-BHQNG,Brooks,95606,2,Month-to-month,Fiber optic,Electronic check,70.35,139.25,No,No,No,No,No,No,0.3801183593694877,0.6198816406305123
-8104-OSKWT,Anaheim,92804,12,Month-to-month,Fiber optic,Electronic check,79.8,1001.2,Yes,No,No,No,No,No,0.38110765608065855,0.6188923439193414
-1302-UHBDD,Ladera Ranch,92694,20,Month-to-month,Fiber optic,Electronic check,89.95,1648.45,No,No,No,No,Yes,Yes,0.3816103096977541,0.6183896903022459
-0620-DLSLK,Pasadena,91103,13,Month-to-month,Fiber optic,Mailed check,81.9,1028.9,No,No,No,No,Yes,No,0.3816676921762495,0.6183323078237505
-8404-GFGCZ,Millville,96062,4,Month-to-month,DSL,Electronic check,65.6,250.1,No,No,Yes,No,Yes,No,0.3824680688467168,0.6175319311532832
-8224-DWCKX,Burlingame,94010,12,Month-to-month,Fiber optic,Credit card (automatic),73.3,828.05,No,No,No,No,No,No,0.38297500454387945,0.6170249954561206
-9773-PEQBZ,Lake Elsinore,92530,10,Month-to-month,Fiber optic,Electronic check,79.85,797.25,No,Yes,No,No,No,No,0.3834476064054655,0.6165523935945345
-4854-CIDCF,Los Angeles,90065,3,Month-to-month,Fiber optic,Electronic check,73.85,196.4,No,No,Yes,No,No,No,0.3847478246113484,0.6152521753886516
-7426-RHZGU,Oakland,94603,9,Month-to-month,Fiber optic,Bank transfer (automatic),95.9,827.45,No,No,No,Yes,Yes,Yes,0.38519039513222386,0.6148096048677761
-4137-BTIKL,Daggett,92327,2,Month-to-month,Fiber optic,Mailed check,90.75,174.75,Yes,No,No,No,No,Yes,0.38520516357697066,0.6147948364230293
-3223-DWFIO,Forks Of Salmon,96031,4,Month-to-month,Fiber optic,Electronic check,69.35,261.65,No,No,No,No,No,No,0.38523166400452447,0.6147683359954755
-0147-ESWWR,Atascadero,93422,39,Month-to-month,Fiber optic,Electronic check,101.25,3949.15,No,No,No,Yes,Yes,Yes,0.38574646654753997,0.61425353345246
-2761-XECQW,Glenhaven,95443,8,Month-to-month,DSL,Mailed check,43.35,371.4,No,Yes,Yes,No,No,Yes,0.386373604652842,0.613626395347158
-1636-NTNCO,Valley Village,91607,4,Month-to-month,DSL,Credit card (automatic),50.95,207.35,No,Yes,No,No,Yes,Yes,0.3871651847585863,0.6128348152414137
-6923-JHPMP,Templeton,93465,2,Month-to-month,Fiber optic,Electronic check,80.45,137.1,Yes,No,Yes,No,No,No,0.38789226663586085,0.6121077333641392
-0921-OHLVP,Paradise,95969,22,Month-to-month,Fiber optic,Electronic check,83.05,1799.3,No,No,No,No,No,Yes,0.38839286070671586,0.6116071392932841
-0315-LVCRK,El Dorado Hills,95762,11,Month-to-month,Fiber optic,Electronic check,84.8,888.75,No,No,Yes,No,No,Yes,0.3885380489890674,0.6114619510109326
-9885-AIBVB,Newcastle,95658,29,Month-to-month,Fiber optic,Electronic check,85.8,2440.25,No,Yes,Yes,No,No,No,0.38919931213334136,0.6108006878666586
-2325-NBPZG,Novato,94949,3,Month-to-month,Fiber optic,Electronic check,74.55,233.65,Yes,No,No,No,No,No,0.3905026187032995,0.6094973812967005
-1212-GLHMD,San Joaquin,93660,3,Month-to-month,Fiber optic,Mailed check,86.05,244.85,Yes,No,No,No,No,Yes,0.39056197523590974,0.6094380247640903
-7318-EIVKO,Shandon,93461,8,Month-to-month,DSL,Electronic check,59.25,436.6,No,No,No,No,Yes,No,0.3907291300943141,0.6092708699056859
-3771-PZOBW,Solvang,93463,20,Month-to-month,Fiber optic,Credit card (automatic),90.7,1781.35,No,No,Yes,No,Yes,No,0.3909737407770335,0.6090262592229665
-2203-GHNWN,Julian,92036,24,Month-to-month,Fiber optic,Mailed check,79.65,1928.7,No,No,Yes,No,No,No,0.3915516906190163,0.6084483093809837
-9167-APMXZ,Long Beach,90810,22,Month-to-month,Fiber optic,Bank transfer (automatic),84.15,1821.95,No,No,No,No,Yes,No,0.3923169610712195,0.6076830389287805
-0682-USIXD,Diamond Bar,91765,21,Month-to-month,Fiber optic,Electronic check,86.05,1818.9,No,No,No,Yes,Yes,No,0.39243315608332385,0.6075668439166761
-1100-DDVRV,Twain Harte,95383,17,Month-to-month,DSL,Mailed check,49.8,836.35,No,Yes,No,No,Yes,Yes,0.39264135054198823,0.6073586494580118
-5692-ICXLW,Escondido,92027,31,Month-to-month,Fiber optic,Electronic check,90.7,2845.15,No,Yes,No,No,Yes,No,0.3928852203036399,0.6071147796963601
-3196-NVXLZ,Orange Cove,93646,25,Month-to-month,Fiber optic,Mailed check,84.6,2088.05,No,No,No,No,Yes,No,0.3931333040631557,0.6068666959368443
-8695-ARGXZ,Fresno,93722,34,Month-to-month,Fiber optic,Electronic check,75.55,2425.4,No,No,No,No,No,No,0.3932577623641095,0.6067422376358905
-2959-FENLU,Los Gatos,95033,9,Month-to-month,Fiber optic,Credit card (automatic),85.3,781.4,No,No,Yes,No,No,Yes,0.3936836223777006,0.6063163776222994
-4450-DLLMH,Avalon,90704,2,Month-to-month,Fiber optic,Credit card (automatic),71.3,157.75,No,No,No,No,No,No,0.39413679937535673,0.6058632006246433
-5271-DBYSJ,Berkeley,94708,11,Month-to-month,Fiber optic,Credit card (automatic),79.15,827.7,No,No,No,No,No,Yes,0.39435187515655246,0.6056481248434475
-4998-IKFSE,Phelan,92371,30,Month-to-month,Fiber optic,Electronic check,100.45,3096.9,No,No,Yes,No,Yes,Yes,0.3943985715387309,0.6056014284612691
-9840-EFJQB,Sylmar,91342,1,Month-to-month,Fiber optic,Electronic check,74.35,74.35,No,Yes,No,No,No,No,0.39638769854040634,0.6036123014595937
-4741-WWJQZ,Forestville,95436,2,Month-to-month,Fiber optic,Electronic check,80.15,194.55,Yes,No,No,Yes,No,No,0.3964926876346807,0.6035073123653193
-2187-PKZAY,Stevinson,95374,12,Month-to-month,Fiber optic,Bank transfer (automatic),79.95,1043.4,No,No,No,No,No,Yes,0.39686103458220334,0.6031389654177967
-5599-HVLTW,Oakland,94609,14,Month-to-month,Fiber optic,Bank transfer (automatic),80.35,1058.1,No,No,Yes,No,No,No,0.3972528860700153,0.6027471139299847
-5606-AMZBO,Rosamond,93560,10,Month-to-month,Fiber optic,Credit card (automatic),78.15,765.15,Yes,No,No,No,No,No,0.39761748860668766,0.6023825113933123
-3384-CTMSF,Lincoln,95648,47,Month-to-month,Fiber optic,Electronic check,104.1,5135.15,No,Yes,Yes,No,Yes,Yes,0.39881915604748763,0.6011808439525124
-6704-UTUKK,Exeter,93221,29,Month-to-month,DSL,Electronic check,45.9,1332.4,No,No,No,No,Yes,Yes,0.399062185960562,0.600937814039438
-1194-HVAIF,Capistrano Beach,92624,27,Month-to-month,Fiber optic,Credit card (automatic),95.0,2462.55,No,No,No,No,Yes,Yes,0.40009892604287334,0.5999010739571267
-0958-YHXGP,Oakland,94621,7,Month-to-month,Fiber optic,Mailed check,69.9,497.3,No,No,No,No,No,No,0.40027383765649005,0.59972616234351
-6175-IRFIT,Bangor,95914,5,Month-to-month,Fiber optic,Mailed check,78.75,426.35,No,No,No,No,No,Yes,0.40044471253419467,0.5995552874658053
-2080-GKCWQ,San Pablo,94806,2,Month-to-month,Fiber optic,Electronic check,74.95,151.75,No,Yes,No,No,No,No,0.4013358468978572,0.5986641531021428
-2041-JIJCI,Wendel,96136,5,Month-to-month,DSL,Electronic check,64.0,370.25,No,Yes,No,No,No,Yes,0.4014386449029649,0.5985613550970351
-9572-WUKSB,South Pasadena,91030,3,Month-to-month,DSL,Electronic check,29.9,92.25,No,No,No,Yes,No,No,0.40245394074530183,0.5975460592546982
-8617-ENBDS,Helendale,92342,3,Month-to-month,Fiber optic,Credit card (automatic),73.6,232.5,No,No,Yes,No,No,No,0.4032600210301672,0.5967399789698328
-3703-KBKZP,Standish,96128,16,Month-to-month,Fiber optic,Bank transfer (automatic),74.45,1261.35,No,No,No,No,No,No,0.4041168930624074,0.5958831069375926
-5183-SNMJQ,Frazier Park,93225,10,Month-to-month,Fiber optic,Credit card (automatic),95.1,865.1,No,No,No,Yes,Yes,Yes,0.4046061008325814,0.5953938991674186
-7284-BUYEC,Tulelake,96134,5,Month-to-month,DSL,Credit card (automatic),50.95,229.4,No,Yes,No,No,Yes,Yes,0.40490036820988407,0.5950996317901159
-2740-TVLFN,Manteca,95337,1,Month-to-month,DSL,Electronic check,50.15,50.15,No,No,No,No,No,No,0.4049085406505747,0.5950914593494253
-7924-GJZFI,Jackson,95642,25,Month-to-month,Fiber optic,Electronic check,69.3,1813.1,No,No,No,No,No,No,0.4053963711315408,0.5946036288684592
-5666-CYCYZ,Montebello,90640,24,Month-to-month,Fiber optic,Electronic check,89.55,2259.35,No,No,No,Yes,No,Yes,0.40557810269088623,0.5944218973091138
-9921-QFQUL,Garden Valley,95633,23,Month-to-month,Fiber optic,Mailed check,90.15,2044.95,No,No,Yes,No,No,Yes,0.4056191062481036,0.5943808937518964
-7278-CKDNC,Fresno,93701,24,Month-to-month,Fiber optic,Electronic check,80.5,2088.45,No,Yes,No,No,No,No,0.405748923450137,0.594251076549863
-5857-TYBCJ,Dixon,95620,44,Month-to-month,Fiber optic,Electronic check,89.2,4040.2,No,No,Yes,No,Yes,No,0.40705267456711014,0.5929473254328899
-1746-TGTWV,Whittier,90604,1,Month-to-month,Fiber optic,Credit card (automatic),75.35,75.35,No,No,Yes,No,No,No,0.407197097840046,0.592802902159954
-5482-VXSXJ,Tehama,96090,22,Month-to-month,Fiber optic,Mailed check,93.2,2157.3,No,Yes,No,No,Yes,Yes,0.4076414499577313,0.5923585500422687
-8160-HOWOX,San Bernardino,92407,7,Month-to-month,DSL,Electronic check,66.85,458.1,No,No,No,No,Yes,Yes,0.4081784224411623,0.5918215775588377
-1658-TJVOA,Cazadero,95421,6,Month-to-month,Fiber optic,Electronic check,74.1,450.9,Yes,No,No,No,No,No,0.40826573932936616,0.5917342606706338
-9129-UXERG,Van Nuys,91405,18,Month-to-month,Fiber optic,Credit card (automatic),103.6,1806.35,No,Yes,No,Yes,Yes,Yes,0.40860139672485585,0.5913986032751442
-0248-IPDFW,Lake Elsinore,92530,1,Month-to-month,DSL,Electronic check,50.1,50.1,No,No,No,No,No,No,0.4087123043935893,0.5912876956064107
-6103-BOCOU,San Francisco,94117,26,Month-to-month,Fiber optic,Electronic check,80.7,2193.0,No,No,Yes,No,No,No,0.4105059158550419,0.5894940841449581
-0428-IKYCP,Sonora,95370,22,Month-to-month,Fiber optic,Bank transfer (automatic),87.0,1850.65,No,No,Yes,No,Yes,No,0.4112138449778402,0.5887861550221598
-2373-NTKOD,Rancho Cordova,95670,8,Month-to-month,DSL,Electronic check,66.25,546.45,No,No,No,No,Yes,Yes,0.41170275180504723,0.5882972481949528
-9432-VOFYX,Delano,93215,17,Month-to-month,Fiber optic,Electronic check,70.8,1207.0,No,No,No,No,No,No,0.4122773360499127,0.5877226639500873
-9093-FPDLG,Hilmar,95324,11,Month-to-month,Fiber optic,Electronic check,94.2,999.9,No,Yes,Yes,Yes,No,Yes,0.4128153873767626,0.5871846126232374
-0581-BXBUB,Penn Valley,95946,4,Month-to-month,Fiber optic,Electronic check,72.75,317.75,No,Yes,No,No,No,No,0.41282647859608945,0.5871735214039105
-1384-RCUXW,French Gulch,96033,16,Month-to-month,Fiber optic,Mailed check,80.55,1248.9,No,Yes,No,No,No,No,0.4131920103283553,0.5868079896716447
-4183-MYFRB,Los Angeles,90021,21,Month-to-month,Fiber optic,Electronic check,90.05,1862.9,No,Yes,Yes,No,No,Yes,0.4136567437464692,0.5863432562535308
-3748-FVMZZ,Oakland,94610,4,Month-to-month,DSL,Electronic check,40.05,162.45,No,No,No,Yes,No,Yes,0.41439665059604536,0.5856033494039546
-5022-KVDQT,Woodland Hills,91364,27,Month-to-month,Fiber optic,Electronic check,81.3,2272.8,No,No,Yes,No,No,No,0.4155089855084013,0.5844910144915987
-6719-OXYBR,California City,93505,15,Month-to-month,Fiber optic,Electronic check,85.3,1219.85,No,No,Yes,No,Yes,No,0.4157716976908781,0.5842283023091219
-7718-RXDGG,Newcastle,95658,15,Month-to-month,Fiber optic,Bank transfer (automatic),68.6,1108.6,No,No,No,No,No,No,0.41591060264124435,0.5840893973587556
-5899-OUVKV,Sacramento,95821,31,Month-to-month,Fiber optic,Electronic check,94.5,2979.2,No,Yes,No,No,Yes,Yes,0.41592121012799677,0.5840787898720032
-7978-DKUQH,Lake Elsinore,92532,25,Month-to-month,Fiber optic,Electronic check,74.6,1797.75,No,No,Yes,No,No,No,0.41607591076705275,0.5839240892329473
-2080-CAZNM,Burbank,91502,41,Month-to-month,Fiber optic,Electronic check,104.4,4133.95,No,Yes,Yes,No,Yes,Yes,0.4163542020745069,0.5836457979254931
-9355-NPPFS,Fremont,94538,26,Month-to-month,Fiber optic,Electronic check,78.8,2006.1,No,No,No,No,No,Yes,0.4165664821107491,0.5834335178892509
-6260-ONULR,Middletown,95461,1,Month-to-month,DSL,Mailed check,62.8,62.8,No,No,No,No,Yes,Yes,0.41708610666347024,0.5829138933365298
-2582-FFFZR,Vallejo,94592,22,Month-to-month,DSL,Electronic check,50.6,1073.3,No,No,Yes,No,Yes,Yes,0.41804904974663903,0.581950950253361
-9529-OFXHY,Elk Creek,95939,15,Month-to-month,Fiber optic,Bank transfer (automatic),87.75,1242.2,Yes,No,No,No,Yes,No,0.4192921267541715,0.5807078732458285
-9365-SRSZE,Los Angeles,90036,27,Month-to-month,Fiber optic,Electronic check,70.55,1943.9,No,No,No,No,No,No,0.41933908637239137,0.5806609136276086
-3518-PZXZQ,Castroville,95012,1,Month-to-month,DSL,Mailed check,55.3,55.3,No,No,No,No,Yes,No,0.42039657046963064,0.5796034295303694
-8212-CRQXP,Alviso,95002,22,Month-to-month,Fiber optic,Credit card (automatic),80.0,1706.45,No,No,No,No,Yes,No,0.42081154484711414,0.5791884551528859
-6243-OZGFH,Vista,92084,23,Month-to-month,DSL,Electronic check,44.95,996.85,No,No,No,No,Yes,Yes,0.4210309364028285,0.5789690635971715
-0674-EYYZV,Los Angeles,90065,1,Month-to-month,DSL,Electronic check,54.65,54.65,No,No,No,No,Yes,No,0.42114889202460526,0.5788511079753947
-1304-BCCFO,Redlands,92374,9,Month-to-month,DSL,Mailed check,70.05,564.4,No,No,Yes,No,Yes,Yes,0.4212452185912028,0.5787547814087972
-7853-OETYL,West Covina,91790,4,Month-to-month,DSL,Electronic check,29.05,129.6,Yes,No,No,No,No,No,0.4215042253187291,0.5784957746812709
-1319-YLZJG,Dutch Flat,95714,12,Month-to-month,Fiber optic,Electronic check,84.6,959.9,Yes,Yes,Yes,No,No,No,0.42202776340957515,0.5779722365904248
-4690-PKDQG,San Diego,92102,42,Month-to-month,Fiber optic,Electronic check,95.55,3930.6,No,Yes,Yes,No,Yes,No,0.42229026210164256,0.5777097378983574
-2603-HVKCG,Meridian,95957,31,Month-to-month,Fiber optic,Electronic check,101.4,3143.65,No,Yes,Yes,No,Yes,Yes,0.42266428846607185,0.5773357115339282
-8630-FJLIB,San Jose,95130,18,Month-to-month,Fiber optic,Electronic check,69.8,1221.65,No,No,No,No,No,No,0.42311956816615737,0.5768804318338426
-5439-WIKXB,Newhall,91321,41,Month-to-month,Fiber optic,Electronic check,94.55,3851.45,No,Yes,No,No,Yes,Yes,0.4233706973723995,0.5766293026276005
-8356-WUAOJ,Glendale,91205,1,Month-to-month,DSL,Electronic check,45.0,45.0,No,No,No,No,No,No,0.42368964942281817,0.5763103505771818
-5501-TVMGM,Canby,96015,1,Month-to-month,DSL,Electronic check,55.25,55.25,No,No,No,No,No,Yes,0.4237635440851356,0.5762364559148644
-5605-IYGFG,Thousand Palms,92276,7,Month-to-month,Fiber optic,Bank transfer (automatic),69.85,515.45,No,No,No,No,No,No,0.424368024009257,0.575631975990743
-5016-IBERQ,Simi Valley,93063,23,Month-to-month,Fiber optic,Electronic check,84.25,1968.1,No,Yes,Yes,No,No,No,0.4245381589623227,0.5754618410376773
-1769-GRUIK,Gridley,95948,18,Month-to-month,Fiber optic,Electronic check,71.1,1247.75,No,No,No,No,No,No,0.4247246969138424,0.5752753030861576
-0581-MDMPW,San Jose,95148,24,Month-to-month,Fiber optic,Credit card (automatic),88.95,2072.75,No,No,Yes,No,Yes,No,0.42517204792041596,0.574827952079584
-3050-GBUSH,Burlingame,94010,3,Month-to-month,DSL,Credit card (automatic),34.8,113.95,No,No,No,No,Yes,No,0.4257916302451059,0.5742083697548941
-9552-TGUZV,Upland,91784,8,Month-to-month,Fiber optic,Mailed check,75.0,658.1,Yes,No,No,No,No,No,0.426237743026852,0.573762256973148
-3588-WSTTJ,Los Angeles,90077,35,Month-to-month,Fiber optic,Electronic check,99.05,3554.6,Yes,No,No,No,Yes,Yes,0.4264913528783215,0.5735086471216785
-8849-AYPTR,Sacramento,95819,33,Month-to-month,Fiber optic,Electronic check,91.25,2964.05,No,No,No,No,Yes,Yes,0.42655765121641465,0.5734423487835854
-9058-MJLZC,Yuba City,95991,24,Month-to-month,Fiber optic,Electronic check,94.6,2283.15,Yes,No,No,No,Yes,Yes,0.42673047286716226,0.5732695271328377
-4546-FOKWR,Los Gatos,95032,16,Month-to-month,Fiber optic,Credit card (automatic),74.75,1129.35,No,No,No,No,No,No,0.4268792611814408,0.5731207388185592
-3916-NRPAP,Escalon,95320,3,Month-to-month,Fiber optic,Credit card (automatic),85.7,256.75,No,No,Yes,No,No,Yes,0.4276360222922353,0.5723639777077647
-4360-PNRQB,Yucca Valley,92284,18,Month-to-month,Fiber optic,Bank transfer (automatic),75.6,1395.05,No,No,No,No,No,No,0.4278162922701376,0.5721837077298624
-9822-OAOVB,Santa Maria,93455,1,Month-to-month,DSL,Electronic check,55.45,55.45,No,No,No,No,No,Yes,0.42792655636473187,0.5720734436352681
-2468-SJFLM,Biggs,95917,1,Month-to-month,Fiber optic,Mailed check,74.3,74.3,No,No,No,Yes,No,No,0.42847662421566046,0.5715233757843395
-3002-WQZWT,Murrieta,92563,29,Month-to-month,Fiber optic,Electronic check,74.2,1993.25,No,No,No,No,No,No,0.42881465440223265,0.5711853455977673
-4581-LNWUM,San Pablo,94806,13,Month-to-month,DSL,Electronic check,49.15,649.4,No,No,Yes,No,Yes,Yes,0.4293187755807528,0.5706812244192472
-8645-KWHJO,San Gabriel,91776,14,Month-to-month,DSL,Electronic check,55.0,771.95,No,No,Yes,Yes,Yes,Yes,0.43001974718236,0.56998025281764
-4480-QQRHC,Hydesville,95547,8,Month-to-month,Fiber optic,Bank transfer (automatic),74.05,600.15,No,No,Yes,No,No,No,0.4300305399083232,0.5699694600916768
-9588-OZDMQ,Tollhouse,93667,2,Month-to-month,DSL,Electronic check,45.0,89.75,No,No,No,No,No,No,0.43191899279699497,0.568081007203005
-3312-ZWLGF,Acton,93510,29,Month-to-month,Fiber optic,Electronic check,79.3,2414.55,No,No,No,Yes,No,No,0.4326529086459969,0.5673470913540031
-1307-ATKGB,Santa Clara,95054,24,Month-to-month,Fiber optic,Electronic check,89.55,2187.15,No,Yes,Yes,No,No,Yes,0.43375304084794664,0.5662469591520534
-6559-PDZLR,Desert Center,92239,26,Month-to-month,Fiber optic,Electronic check,98.65,2537.0,No,No,Yes,Yes,Yes,Yes,0.4343787498856264,0.5656212501143736
-8990-ZXLSU,Sun City,92586,9,Month-to-month,Fiber optic,Electronic check,69.05,651.5,No,No,No,No,No,No,0.4352937124086571,0.5647062875913429
-9796-BPKIW,Redwood City,94063,8,Month-to-month,Fiber optic,Credit card (automatic),69.95,562.7,No,No,No,No,No,No,0.43546486127555173,0.5645351387244483
-5760-FXFVO,Pleasant Grove,95668,6,Month-to-month,Fiber optic,Electronic check,78.95,494.95,Yes,Yes,No,No,No,No,0.4362955798100411,0.5637044201899589
-0988-JRWWP,Wilseyville,95257,3,Month-to-month,DSL,Electronic check,54.2,140.4,No,No,No,No,Yes,No,0.4370616686452432,0.5629383313547568
-2739-CACDQ,La Jolla,92037,17,Month-to-month,Fiber optic,Credit card (automatic),82.65,1470.05,No,No,Yes,No,No,No,0.43714738627467886,0.5628526137253211
-2322-VCZHZ,El Portal,95318,23,Month-to-month,Fiber optic,Electronic check,90.0,2024.1,Yes,Yes,No,No,No,Yes,0.43745151920859404,0.562548480791406
-1335-NTIUC,Pacoima,91331,9,Month-to-month,DSL,Electronic check,24.95,190.25,No,No,No,No,No,No,0.43807747717085366,0.5619225228291463
-2916-BQZLN,Reseda,91335,19,Month-to-month,Fiber optic,Electronic check,84.75,1651.95,Yes,No,Yes,No,No,No,0.43839072336854923,0.5616092766314508
-1399-UBQIU,Orange,92867,11,Month-to-month,DSL,Electronic check,69.35,712.25,No,No,Yes,No,Yes,Yes,0.43841639979760016,0.5615836002023998
-6652-YFFJO,Tuolumne,95379,11,Month-to-month,DSL,Electronic check,64.9,716.1,No,No,No,No,Yes,Yes,0.43859075521296886,0.5614092447870311
-7126-RBHSD,Lathrop,95330,17,Month-to-month,Fiber optic,Electronic check,78.9,1348.95,Yes,No,No,No,No,No,0.43866582115014674,0.5613341788498533
-8040-MNRTF,Taft,93268,1,Month-to-month,Fiber optic,Mailed check,71.1,71.1,No,No,No,No,No,No,0.4393224288026494,0.5606775711973506
-0212-ISBBF,Berkeley,94705,22,Month-to-month,DSL,Electronic check,50.35,1098.85,No,Yes,No,No,Yes,Yes,0.43955754994753304,0.560442450052467
-8778-LMWTJ,River Pines,95675,9,Month-to-month,Fiber optic,Electronic check,74.85,708.2,Yes,No,No,No,No,No,0.4398013024939885,0.5601986975060115
-7895-VONWT,Manhattan Beach,90266,25,Month-to-month,DSL,Electronic check,48.25,1293.8,No,No,Yes,No,Yes,Yes,0.4398399978296934,0.5601600021703066
-0817-HSUSE,Altadena,91001,1,Month-to-month,DSL,Electronic check,75.5,75.5,No,No,Yes,Yes,Yes,Yes,0.4400523520620544,0.5599476479379456
-2697-NQBPF,Fulton,95439,34,Month-to-month,Fiber optic,Electronic check,105.35,3540.65,No,Yes,No,Yes,Yes,Yes,0.44007643010603104,0.559923569893969
-3956-MGXOG,Modesto,95350,28,Month-to-month,Fiber optic,Electronic check,80.6,2244.95,No,No,No,No,No,Yes,0.44126641000768907,0.5587335899923109
-3853-LYGAM,Meadow Vista,95722,17,Month-to-month,Fiber optic,Bank transfer (automatic),95.65,1640.0,No,No,Yes,Yes,No,Yes,0.4414436027390952,0.5585563972609048
-5226-NOZFC,Modesto,95358,26,Month-to-month,Fiber optic,Electronic check,85.75,2146.5,No,Yes,No,No,Yes,No,0.441509993517619,0.558490006482381
-0650-BWOZN,Aguanga,92536,18,Month-to-month,Fiber optic,Electronic check,73.55,1359.45,No,Yes,No,No,No,No,0.44185423521648215,0.5581457647835179
-2507-QZPQS,La Mirada,90638,15,Month-to-month,Fiber optic,Electronic check,95.7,1451.1,No,Yes,No,Yes,No,Yes,0.44230609761965045,0.5576939023803495
-5950-AAAGJ,Playa Del Rey,90293,18,Month-to-month,Fiber optic,Bank transfer (automatic),84.3,1537.9,No,No,No,No,Yes,No,0.4424419257092357,0.5575580742907643
-2424-WVHPL,Redondo Beach,90278,1,Month-to-month,Fiber optic,Electronic check,74.7,74.7,No,No,No,Yes,No,No,0.4428830055100421,0.5571169944899579
-3717-OEAUQ,Ione,95640,2,Month-to-month,Fiber optic,Mailed check,70.7,129.2,No,No,No,No,No,No,0.44316393205171745,0.5568360679482826
-0439-IFYUN,Westley,95387,18,Month-to-month,Fiber optic,Electronic check,74.7,1294.6,No,Yes,No,No,No,No,0.44328863357392145,0.5567113664260785
-4367-NHWMM,Corte Madera,94925,1,Month-to-month,DSL,Mailed check,24.9,24.9,No,No,No,No,No,No,0.44344362819730376,0.5565563718026962
-9274-UARKJ,Modesto,95351,15,Month-to-month,Fiber optic,Bank transfer (automatic),83.2,1130.0,No,Yes,No,No,Yes,No,0.44347930818168846,0.5565206918183115
-7537-RBWEA,Petrolia,95558,1,Month-to-month,DSL,Mailed check,25.15,25.15,No,No,No,No,No,No,0.44375560207661957,0.5562443979233804
-5543-QDCRY,San Francisco,94103,4,Month-to-month,DSL,Electronic check,56.4,234.85,No,No,No,No,Yes,No,0.4441418494638154,0.5558581505361846
-5144-TVGLP,Los Angeles,90002,38,Month-to-month,Fiber optic,Electronic check,94.75,3653.0,No,No,No,No,Yes,Yes,0.4447091797520779,0.5552908202479221
-7586-ZATGZ,Ravendale,96123,40,Month-to-month,Fiber optic,Electronic check,84.9,3369.05,No,No,No,No,Yes,No,0.44538551294266504,0.554614487057335
-2070-XYMFH,Long Beach,90815,23,Month-to-month,Fiber optic,Mailed check,79.35,1835.3,No,No,Yes,No,No,No,0.44543860592379814,0.5545613940762019
-3914-FDRHP,Warner Springs,92086,9,Month-to-month,Fiber optic,Electronic check,86.25,770.5,No,No,No,Yes,Yes,No,0.44568111099445906,0.5543188890055409
-9927-DSWDF,Palos Verdes Peninsula,90274,22,Month-to-month,Fiber optic,Electronic check,104.6,2180.55,Yes,Yes,No,Yes,Yes,Yes,0.4463101585897019,0.5536898414102981
-7855-DIWPO,Sloughhouse,95683,21,Month-to-month,Fiber optic,Electronic check,68.65,1493.2,No,No,No,No,No,No,0.44647162590917255,0.5535283740908274
-8456-QDAVC,Winterhaven,92283,19,Month-to-month,Fiber optic,Bank transfer (automatic),78.7,1495.1,No,No,No,No,Yes,No,0.4468896472771876,0.5531103527228124
-0114-PEGZZ,Round Mountain,96084,33,Month-to-month,Fiber optic,Electronic check,107.55,3645.5,No,Yes,Yes,No,Yes,Yes,0.4476417198818522,0.5523582801181478
-8486-AYEQH,Guatay,91931,31,Month-to-month,Fiber optic,Electronic check,76.05,2227.8,No,No,No,No,No,No,0.4476680329462549,0.5523319670537451
-8687-BAFGU,Clovis,93612,1,Month-to-month,Fiber optic,Electronic check,74.0,74.0,No,No,No,Yes,No,No,0.4480661851445551,0.5519338148554449
-2501-XWWTZ,San Clemente,92673,11,Month-to-month,Fiber optic,Electronic check,70.2,760.05,No,No,No,No,No,No,0.44936227381969984,0.5506377261803002
-6994-KERXL,Avalon,90704,4,Month-to-month,DSL,Electronic check,55.9,238.5,No,No,No,No,No,Yes,0.4493743801821579,0.5506256198178421
-7562-UXTPG,Canoga Park,91303,13,Month-to-month,Fiber optic,Mailed check,70.15,886.7,No,No,No,No,No,No,0.4498329755423607,0.5501670244576393
-1580-BMCMR,Tehachapi,93561,19,Month-to-month,Fiber optic,Electronic check,87.3,1637.3,Yes,No,No,No,No,Yes,0.45011474906497995,0.54988525093502
-3955-JBZZM,Hermosa Beach,90254,20,Month-to-month,Fiber optic,Electronic check,78.8,1641.3,No,No,No,No,Yes,No,0.45072745320936747,0.5492725467906325
-1391-UBDAR,Riverside,92504,11,Month-to-month,Fiber optic,Electronic check,72.9,818.45,No,No,Yes,No,No,No,0.45096110450788307,0.5490388954921169
-0376-OIWME,San Ysidro,92173,36,Month-to-month,Fiber optic,Electronic check,93.6,3366.05,Yes,No,No,No,Yes,Yes,0.45160716684257884,0.5483928331574212
-6522-YRBXD,Anaheim,92802,35,Month-to-month,Fiber optic,Electronic check,94.55,3365.4,Yes,Yes,No,No,No,Yes,0.45169050362265484,0.5483094963773452
-2823-LKABH,Rancho Mirage,92270,18,Month-to-month,Fiber optic,Bank transfer (automatic),95.05,1679.4,No,No,Yes,Yes,No,Yes,0.45296342975956294,0.5470365702404371
-3966-HRMZA,Bishop,93514,3,Month-to-month,Fiber optic,Mailed check,75.05,202.9,No,No,Yes,No,No,No,0.4530347740187405,0.5469652259812595
-2832-KJCRD,Los Angeles,90071,38,Month-to-month,Fiber optic,Electronic check,103.65,3988.5,No,No,Yes,Yes,Yes,Yes,0.45312594045852495,0.546874059541475
-0869-PAPRP,Pixley,93256,26,Month-to-month,Fiber optic,Credit card (automatic),85.7,2067.0,No,No,Yes,No,Yes,No,0.4531724688405304,0.5468275311594696
-6217-TOWGS,San Jose,95113,17,Month-to-month,DSL,Bank transfer (automatic),75.4,1322.55,No,Yes,No,No,Yes,Yes,0.45373070867308185,0.5462692913269181
-4238-JSSWH,Porterville,93257,35,Month-to-month,Fiber optic,Bank transfer (automatic),102.05,3452.55,No,No,Yes,No,Yes,Yes,0.45416401281432894,0.5458359871856711
-7508-SMHXL,San Francisco,94109,15,Month-to-month,Fiber optic,Credit card (automatic),89.0,1288.3,No,Yes,No,No,Yes,No,0.45431160495288914,0.5456883950471109
-6778-YSNIH,Riverside,92501,2,Month-to-month,DSL,Electronic check,59.0,114.15,No,Yes,No,No,Yes,No,0.4549860805114281,0.5450139194885719
-8584-KMVXD,Calistoga,94515,8,Month-to-month,Fiber optic,Electronic check,75.6,535.55,No,Yes,No,No,No,No,0.4553974711371427,0.5446025288628573
-0082-OQIQY,Farmington,95230,29,Month-to-month,Fiber optic,Electronic check,94.2,2607.6,No,No,No,Yes,Yes,Yes,0.4555035682447903,0.5444964317552097
-4718-DHSMV,Llano,93544,11,Month-to-month,DSL,Mailed check,35.8,363.15,No,No,No,No,Yes,No,0.45600549731292095,0.543994502687079
-2523-EWWZL,Blythe,92225,27,Month-to-month,Fiber optic,Electronic check,76.1,2093.4,No,Yes,No,No,No,No,0.45636436522196333,0.5436356347780367
-1101-SSWAG,Berkeley,94702,15,Month-to-month,DSL,Electronic check,51.1,711.15,No,No,No,No,No,No,0.45638576513138895,0.543614234868611
-5035-BVCXS,Loyalton,96118,11,Month-to-month,Fiber optic,Mailed check,75.9,866.4,No,Yes,No,No,No,No,0.4567022714997655,0.5432977285002345
-9518-XXBXE,Patterson,95363,10,Month-to-month,Fiber optic,Electronic check,75.3,720.45,Yes,No,No,No,No,No,0.45713407903736447,0.5428659209626355
-8818-DOPVL,El Cerrito,94530,46,Month-to-month,Fiber optic,Electronic check,104.45,4863.85,No,Yes,Yes,No,Yes,Yes,0.4577486115195766,0.5422513884804234
-4128-ETESU,Pasadena,91101,47,Month-to-month,Fiber optic,Electronic check,99.7,4747.2,No,No,Yes,No,Yes,Yes,0.4583511351903977,0.5416488648096023
-5533-NHFRF,San Jose,95132,7,Month-to-month,DSL,Electronic check,44.4,265.8,No,Yes,No,Yes,No,Yes,0.4586973138775481,0.5413026861224519
-7011-CVEUC,Chula Vista,91911,25,Month-to-month,Fiber optic,Credit card (automatic),95.7,2338.35,No,No,No,Yes,Yes,Yes,0.4600049581973563,0.5399950418026437
-7077-XJMET,Alta,95701,12,Month-to-month,DSL,Electronic check,74.15,741.4,No,No,Yes,Yes,Yes,Yes,0.46025935670862694,0.5397406432913731
-5175-WLYXL,Lone Pine,93545,22,Month-to-month,Fiber optic,Mailed check,78.85,1600.25,No,Yes,No,No,No,No,0.46066504773852623,0.5393349522614738
-8490-BXHEO,Lucerne Valley,92356,18,Month-to-month,Fiber optic,Credit card (automatic),80.55,1411.65,No,Yes,No,No,No,No,0.4609129848356208,0.5390870151643792
-0708-LGSMF,Milpitas,95035,13,Month-to-month,DSL,Electronic check,65.85,902.25,Yes,No,No,No,No,Yes,0.4612359876846861,0.5387640123153139
-7852-LECYP,Los Angeles,90019,13,Month-to-month,Fiber optic,Credit card (automatic),93.8,1261.0,Yes,Yes,No,No,No,Yes,0.46136859901134186,0.5386314009886581
-0599-XNYDO,Graton,95444,20,Month-to-month,Fiber optic,Bank transfer (automatic),69.8,1540.35,No,No,No,No,No,No,0.46271794113382037,0.5372820588661796
-1173-NOEYG,Santa Margarita,93453,27,Month-to-month,Fiber optic,Bank transfer (automatic),90.15,2423.4,No,No,Yes,No,No,Yes,0.46308734424487596,0.536912655755124
-3088-LHEFH,Pollock Pines,95726,11,Month-to-month,Fiber optic,Bank transfer (automatic),79.0,929.3,Yes,No,No,No,No,No,0.46310641488381576,0.5368935851161842
-0577-WHMEV,San Jose,95133,16,Month-to-month,Fiber optic,Electronic check,90.7,1374.9,Yes,Yes,Yes,No,No,No,0.4636076426494551,0.5363923573505449
-4195-NZGTA,Valencia,91354,1,Month-to-month,DSL,Electronic check,25.25,25.25,No,No,No,No,No,No,0.4639801524478482,0.5360198475521518
-5019-GQVCR,Westlake Village,91361,43,Month-to-month,Fiber optic,Electronic check,84.85,3645.6,No,No,No,No,Yes,No,0.4642486033808708,0.5357513966191292
-0093-EXYQL,Ojai,93023,40,Month-to-month,Fiber optic,Electronic check,91.55,3673.6,No,No,No,No,Yes,Yes,0.46448714079491094,0.5355128592050891
-2971-SGAFL,Millbrae,94030,13,Month-to-month,DSL,Electronic check,78.75,995.35,Yes,No,Yes,No,Yes,Yes,0.4649262362510128,0.5350737637489872
-5626-MGTUK,Chatsworth,91311,20,Month-to-month,Fiber optic,Bank transfer (automatic),89.1,1879.25,Yes,No,No,No,Yes,No,0.46636502539043356,0.5336349746095664
-1730-ZMAME,Ontario,91762,32,Month-to-month,Fiber optic,Electronic check,79.5,2665.0,No,No,No,No,No,Yes,0.4671397841299352,0.5328602158700648
-8543-MSDMF,Coachella,92236,3,Month-to-month,DSL,Electronic check,77.4,206.15,Yes,No,Yes,No,Yes,Yes,0.46734830101876546,0.5326516989812345
-6034-YMTOB,Arcadia,91007,5,Month-to-month,Fiber optic,Mailed check,75.65,399.45,No,No,No,Yes,No,No,0.4673585504695301,0.5326414495304699
-6212-ATMLK,Rancho Cucamonga,91701,50,Month-to-month,Fiber optic,Electronic check,95.7,4729.75,No,No,No,No,Yes,Yes,0.46770469897403455,0.5322953010259655
-1436-ZMJAN,Gerber,96035,10,Month-to-month,DSL,Credit card (automatic),67.8,653.15,No,No,Yes,No,Yes,Yes,0.4680426100561127,0.5319573899438873
-0570-BFQHT,Anderson,96007,9,Month-to-month,Fiber optic,Electronic check,80.55,653.9,No,Yes,Yes,No,No,No,0.4681852425740566,0.5318147574259434
-0096-BXERS,Inverness,94937,6,Month-to-month,DSL,Electronic check,50.35,314.55,No,No,No,No,No,No,0.4687393345788854,0.5312606654211146
-6599-SFQVE,Santa Clara,95051,6,Month-to-month,DSL,Electronic check,55.0,340.4,No,No,No,No,No,Yes,0.46891629426338244,0.5310837057366176
-8819-IMISP,Redlands,92373,31,Month-to-month,Fiber optic,Electronic check,80.45,2429.1,No,Yes,No,No,No,No,0.4695465517488896,0.5304534482511104
-1941-HOSAM,San Diego,92101,1,Month-to-month,Fiber optic,Electronic check,90.1,90.1,No,No,No,No,Yes,Yes,0.46960240743907367,0.5303975925609263
-9979-RGMZT,Los Angeles,90022,7,One year,Fiber optic,Mailed check,94.05,633.45,No,Yes,No,No,Yes,Yes,0.47013341206534964,0.5298665879346504
-5650-YLIBA,Lakeport,95453,31,Month-to-month,Fiber optic,Electronic check,81.15,2640.55,No,Yes,No,No,No,No,0.4704281485114491,0.5295718514885509
-9643-YBLUR,West Covina,91791,9,Month-to-month,DSL,Credit card (automatic),69.05,653.95,No,Yes,Yes,No,No,Yes,0.4706227010336095,0.5293772989663905
-5960-MVTUK,Grenada,96038,3,Month-to-month,DSL,Electronic check,29.75,96.85,No,No,No,Yes,No,No,0.47136255209686717,0.5286374479031328
-4236-UJPWO,Alviso,95002,2,Month-to-month,DSL,Electronic check,24.5,46.4,No,No,No,No,No,No,0.4714056765829442,0.5285943234170558
-7181-OQCUT,Fresno,93706,21,Month-to-month,Fiber optic,Mailed check,103.85,2215.0,Yes,No,Yes,No,Yes,Yes,0.4724665257932231,0.5275334742067769
-4257-GAESD,Dinuba,93618,6,Month-to-month,DSL,Credit card (automatic),45.0,298.7,No,No,No,No,Yes,Yes,0.47317729442413337,0.5268227055758666
-2675-OTVVJ,Novato,94945,31,Month-to-month,Fiber optic,Electronic check,89.45,2807.65,Yes,No,No,No,Yes,No,0.4741118740765633,0.5258881259234367
-5630-IXDXV,Reedley,93654,47,Month-to-month,Fiber optic,Electronic check,106.35,4849.1,No,Yes,Yes,No,Yes,Yes,0.4746062106384047,0.5253937893615953
-6542-LWGXJ,Pixley,93256,3,Month-to-month,DSL,Mailed check,25.0,78.25,No,No,No,No,No,No,0.47483533527138466,0.5251646647286153
-2974-GGUXS,Granite Bay,95746,36,Month-to-month,Fiber optic,Credit card (automatic),91.95,3301.05,No,Yes,No,No,Yes,No,0.47508524167248156,0.5249147583275184
-3352-ALMCK,Navarro,95463,40,Month-to-month,Fiber optic,Mailed check,102.65,4108.15,No,Yes,Yes,No,Yes,Yes,0.4758293167593308,0.5241706832406692
-9743-DQKQW,Escalon,95320,3,Month-to-month,DSL,Electronic check,25.1,79.8,No,No,No,No,No,No,0.4765509506568031,0.5234490493431969
-2694-CIUMO,Los Angeles,90033,12,Month-to-month,Fiber optic,Credit card (automatic),79.55,958.25,No,No,No,Yes,No,No,0.47675076288509044,0.5232492371149096
-0221-WMXNQ,Chino,91710,4,Month-to-month,Fiber optic,Electronic check,75.35,273.4,Yes,No,No,No,No,No,0.47701278195201635,0.5229872180479836
-6481-ESCNL,Clayton,94517,29,Month-to-month,Fiber optic,Bank transfer (automatic),100.55,2878.75,No,No,Yes,No,Yes,Yes,0.47818801714354564,0.5218119828564544
-9944-AEXBM,Casmalia,93429,32,Month-to-month,Fiber optic,Bank transfer (automatic),85.65,2664.3,No,No,No,No,No,Yes,0.4784819351942351,0.5215180648057649
-1833-TCXKK,San Bernardino,92408,45,Month-to-month,Fiber optic,Bank transfer (automatic),107.75,4882.8,No,Yes,Yes,No,Yes,Yes,0.47888715475223254,0.5211128452477675
-2675-DHUTR,Big Pine,93513,58,Month-to-month,Fiber optic,Electronic check,98.9,5780.7,No,Yes,No,No,Yes,Yes,0.4789628514428822,0.5210371485571178
+3489-HHPFY,Amboy,92304,2,Month-to-month,Fiber optic,Electronic check,84.05,134.05,No,No,No,No,Yes,No,0.14621357100263377,0.8537864289973662
+4927-WWOOZ,Pacific Grove,93950,2,Month-to-month,Fiber optic,Electronic check,91.45,171.45,No,No,Yes,No,Yes,No,0.14682644036146975,0.8531735596385303
+5150-ITWWB,Hamilton City,95951,3,Month-to-month,Fiber optic,Electronic check,94.85,335.75,No,No,No,No,Yes,Yes,0.14799642330023077,0.8520035766997692
+6630-UJZMY,Palo Alto,94306,4,Month-to-month,Fiber optic,Electronic check,83.25,308.05,No,No,No,No,Yes,No,0.15195992205942133,0.8480400779405787
+7398-SKNQZ,Downey,90241,3,Month-to-month,Fiber optic,Electronic check,94.9,273.2,No,No,No,No,Yes,Yes,0.16223598532823624,0.8377640146717638
+8161-QYMTT,Santa Maria,93454,7,Month-to-month,Fiber optic,Electronic check,94.1,701.3,No,No,No,No,Yes,Yes,0.16884056472284092,0.8311594352771591
+7225-CBZPL,Earlimart,93219,17,Month-to-month,Fiber optic,Electronic check,94.8,1563.9,No,No,No,No,Yes,Yes,0.17328813000896293,0.8267118699910371
+0187-QSXOE,Fresno,93725,7,Month-to-month,Fiber optic,Electronic check,89.0,605.45,No,No,No,No,Yes,Yes,0.17407406614472765,0.8259259338552724
+7668-XCFYV,Glendora,91741,17,Month-to-month,Fiber optic,Electronic check,92.55,1614.7,No,No,No,No,Yes,Yes,0.17535953127884074,0.8246404687211593
+4912-PIGUY,Perris,92571,1,Month-to-month,Fiber optic,Electronic check,84.6,84.6,No,No,No,No,Yes,No,0.18016939273279342,0.8198306072672066
+3096-GKWEB,Bakersfield,93306,18,Month-to-month,Fiber optic,Electronic check,94.75,1691.9,No,No,No,No,Yes,Yes,0.18140112931976327,0.8185988706802367
+8622-ZLFKO,Fresno,93710,6,Month-to-month,Fiber optic,Electronic check,90.75,512.25,No,Yes,No,No,No,Yes,0.18264200868665526,0.8173579913133447
+3452-GWUIN,Raisin City,93652,19,Month-to-month,Fiber optic,Electronic check,94.95,1760.25,No,No,No,No,Yes,Yes,0.18530208458884723,0.8146979154111528
+2545-EBUPK,Los Angeles,90045,2,Month-to-month,Fiber optic,Electronic check,84.05,186.05,No,No,No,No,No,Yes,0.18554098618595682,0.8144590138140432
+7577-SWIFR,Glendale,91206,1,Month-to-month,Fiber optic,Electronic check,89.25,89.25,No,No,No,No,Yes,Yes,0.18941249547431938,0.8105875045256806
+0365-BZUWY,San Juan Capistrano,92675,17,Month-to-month,Fiber optic,Electronic check,102.55,1742.5,No,Yes,Yes,No,Yes,Yes,0.19560149360484513,0.8043985063951549
+9919-KNPOO,La Mirada,90638,21,Month-to-month,Fiber optic,Electronic check,94.3,1948.35,No,No,No,No,Yes,Yes,0.19915670451283995,0.80084329548716
+3318-NMQXL,El Monte,91731,3,Month-to-month,Fiber optic,Electronic check,92.0,266.8,No,No,No,No,Yes,Yes,0.1999586230755901,0.8000413769244099
+8739-XNIKG,Bakersfield,93301,5,Month-to-month,Fiber optic,Electronic check,84.0,424.75,No,No,No,No,Yes,No,0.20090592045248123,0.7990940795475188
+3320-VEOYC,Beverly Hills,90210,14,Month-to-month,Fiber optic,Electronic check,95.6,1273.3,No,No,No,No,Yes,Yes,0.2009500256697424,0.7990499743302576
+9957-YODKZ,Canby,96015,6,Month-to-month,Fiber optic,Electronic check,80.8,457.1,No,No,Yes,No,No,No,0.204772527625262,0.795227472374738
+6350-XFYGW,Ferndale,95536,4,Month-to-month,Fiber optic,Electronic check,94.75,422.4,No,No,Yes,No,Yes,Yes,0.20495656904917636,0.7950434309508236
+9334-GWGOW,Mc Kittrick,93251,7,Month-to-month,Fiber optic,Electronic check,74.85,485.25,No,No,No,No,No,No,0.2071187483513932,0.7928812516486068
+2077-MPJQO,Menlo Park,94025,7,Month-to-month,Fiber optic,Electronic check,75.4,533.05,No,No,No,No,No,No,0.2071187483513932,0.7928812516486068
+2371-JQHZZ,Bakersfield,93307,24,Month-to-month,Fiber optic,Electronic check,93.0,2248.05,No,No,No,No,Yes,Yes,0.2133170179055457,0.7866829820944543
+4847-TAJYI,Chula Vista,91911,6,Month-to-month,Fiber optic,Electronic check,89.35,567.8,No,No,No,No,Yes,Yes,0.21530822151727524,0.7846917784827248
+4853-OITSN,Oakland,94606,5,Month-to-month,Fiber optic,Electronic check,89.15,413.25,Yes,No,No,No,No,Yes,0.2166696162939996,0.7833303837060004
+4929-XIHVW,Los Angeles,90034,2,Month-to-month,Fiber optic,Credit card (automatic),95.5,181.65,No,No,Yes,No,Yes,Yes,0.21731474541582163,0.7826852545841784
+5935-FCCNB,Downey,90242,17,Month-to-month,Fiber optic,Electronic check,94.2,1608.15,No,No,No,No,Yes,Yes,0.22010456276172463,0.7798954372382754
+2215-ZAFGX,La Mesa,91942,9,Month-to-month,Fiber optic,Electronic check,85.5,791.7,No,No,No,No,Yes,No,0.2208921360952939,0.7791078639047061
+4115-NZRKS,San Diego,92102,7,Month-to-month,Fiber optic,Electronic check,89.15,574.35,No,No,No,No,Yes,Yes,0.22104605807826028,0.7789539419217397
+4298-OYIFC,Loyalton,96118,15,Month-to-month,Fiber optic,Electronic check,103.45,1539.8,No,No,Yes,Yes,Yes,Yes,0.22217628432166203,0.777823715678338
+6969-MVBAI,Davis Creek,96108,9,Month-to-month,Fiber optic,Electronic check,90.1,816.8,No,No,Yes,No,Yes,No,0.22291332725824065,0.7770866727417594
+0021-IKXGC,San Marcos,92078,1,Month-to-month,Fiber optic,Electronic check,72.1,72.1,No,No,No,No,No,No,0.22325885624435815,0.7767411437556418
+3462-BJQQA,Belvedere Tiburon,94920,6,Month-to-month,Fiber optic,Electronic check,89.75,552.65,No,Yes,No,No,Yes,No,0.2244730527482236,0.7755269472517764
+1452-VOQCH,Hinkley,92347,1,Month-to-month,Fiber optic,Electronic check,75.1,75.1,No,No,No,No,No,No,0.2245771672145218,0.7754228327854782
+4060-LDNLU,Diamond Bar,91765,7,Month-to-month,Fiber optic,Electronic check,96.2,639.7,No,No,No,No,Yes,Yes,0.22470320082051165,0.7752967991794883
+5995-SNNEW,Whittier,90605,23,Month-to-month,Fiber optic,Electronic check,104.45,2184.85,No,Yes,Yes,No,Yes,Yes,0.22545495102390467,0.7745450489760953
+9094-AZPHK,San Bernardino,92405,15,Month-to-month,Fiber optic,Electronic check,100.15,1415.0,No,Yes,No,No,Yes,Yes,0.23091648355044747,0.7690835164495525
+4813-HQMGZ,Ducor,93218,8,Month-to-month,Fiber optic,Electronic check,90.25,743.75,No,No,No,Yes,No,Yes,0.23094121333101048,0.7690587866689895
+0168-XZKBB,Boron,93516,19,Month-to-month,Fiber optic,Electronic check,86.85,1564.4,No,No,No,No,Yes,No,0.23276927285054327,0.7672307271494567
+8775-ERLNB,Indio,92203,1,Month-to-month,Fiber optic,Electronic check,74.3,74.3,No,No,No,No,No,No,0.2334705132879581,0.7665294867120419
+7439-DKZTW,Paicines,95043,1,Month-to-month,Fiber optic,Electronic check,80.55,80.55,No,No,No,No,Yes,No,0.23366704481428857,0.7663329551857114
+7994-UYIVZ,Miramonte,93641,8,Month-to-month,Fiber optic,Bank transfer (automatic),85.65,659.45,No,No,No,No,No,Yes,0.23474230942614327,0.7652576905738567
+6734-GMPVK,Santa Maria,93454,5,Month-to-month,Fiber optic,Electronic check,105.3,550.6,No,Yes,Yes,No,Yes,Yes,0.23518940174914083,0.7648105982508592
+6198-RTPMF,Oregon House,95962,17,Month-to-month,Fiber optic,Electronic check,92.6,1579.7,No,No,No,No,Yes,Yes,0.23672299284110754,0.7632770071588925
+6583-KQJLK,Twin Bridges,95735,15,Month-to-month,Fiber optic,Electronic check,94.65,1285.05,No,Yes,No,No,Yes,Yes,0.23752426107183566,0.7624757389281643
+8087-LGYHQ,Crestline,92325,9,Month-to-month,Fiber optic,Electronic check,94.05,811.65,No,No,Yes,No,Yes,Yes,0.2376832553515379,0.7623167446484621
+7363-QTBIW,Scotts Valley,95066,9,Month-to-month,Fiber optic,Electronic check,79.75,769.1,No,No,No,No,No,Yes,0.23812737974604548,0.7618726202539545
+1173-XZPYF,Torrance,90501,11,Month-to-month,Fiber optic,Electronic check,89.2,990.3,No,No,Yes,No,Yes,No,0.23875593684962038,0.7612440631503796
+4090-KPJIP,Anaheim,92806,3,Month-to-month,Fiber optic,Electronic check,74.95,212.4,No,No,No,No,No,No,0.2391184663602468,0.7608815336397532
+9799-CAYJJ,West Hills,91307,2,Month-to-month,Fiber optic,Electronic check,69.3,153.8,No,No,No,No,No,No,0.23970170344084452,0.7602982965591555
+4234-XTNEA,Irvine,92606,2,Month-to-month,Fiber optic,Electronic check,79.95,174.45,No,No,No,No,Yes,No,0.23974465343662354,0.7602553465633765
+4123-DVHPH,Orinda,94563,9,Month-to-month,Fiber optic,Electronic check,88.05,801.3,Yes,No,No,No,No,Yes,0.24037539080043857,0.7596246091995614
+2880-FPNAE,Van Nuys,91405,2,Month-to-month,Fiber optic,Electronic check,74.2,140.1,No,No,Yes,No,No,No,0.24059601085509064,0.7594039891449094
+1197-BVMVG,Friant,93626,4,Month-to-month,Fiber optic,Electronic check,74.45,294.45,No,No,No,No,No,No,0.2412467204068366,0.7587532795931634
+5348-CAGXB,Irvine,92614,12,Month-to-month,Fiber optic,Electronic check,89.55,1021.75,No,No,Yes,No,Yes,No,0.24227190092748518,0.7577280990725148
+7321-VGNKU,Paskenta,96074,2,Month-to-month,Fiber optic,Electronic check,70.35,120.25,No,No,No,No,No,No,0.24372987562633908,0.7562701243736609
+4749-OJKQU,San Jose,95132,4,Month-to-month,Fiber optic,Electronic check,75.65,302.35,No,No,No,No,No,No,0.24529247985603753,0.7547075201439625
+7858-GTZSP,San Lucas,93954,12,Month-to-month,Fiber optic,Electronic check,86.55,1066.9,No,No,No,No,No,Yes,0.2458490212175748,0.7541509787824252
+8107-KNCIM,San Francisco,94111,14,Month-to-month,Fiber optic,Electronic check,75.1,1013.35,No,No,No,No,No,No,0.24844850775608052,0.7515514922439195
+6357-JJPQT,San Gabriel,91776,3,Month-to-month,Fiber optic,Electronic check,80.5,232.35,No,No,No,No,Yes,No,0.24860821033052982,0.7513917896694702
+1393-IMKZG,Fullerton,92831,1,Month-to-month,Fiber optic,Electronic check,95.85,95.85,No,No,No,Yes,Yes,Yes,0.2489987043287596,0.7510012956712404
+7044-YAACC,Napa,94559,4,Month-to-month,Fiber optic,Electronic check,70.2,280.35,No,No,No,No,No,No,0.24947246155983804,0.750527538440162
+3422-GALYP,Phillipsville,95559,2,Month-to-month,Fiber optic,Electronic check,79.45,145.15,No,Yes,No,No,No,No,0.25005214299017964,0.7499478570098204
+0480-BIXDE,Beale Afb,95903,19,Month-to-month,Fiber optic,Electronic check,96.8,1743.05,No,No,Yes,No,Yes,Yes,0.2501733286070409,0.7498266713929591
+2789-HQBOU,Bakersfield,93306,3,Month-to-month,Fiber optic,Electronic check,80.35,253.8,No,No,No,No,No,Yes,0.25046187829486666,0.7495381217051333
+5382-SOYZL,Concord,94519,22,Month-to-month,Fiber optic,Electronic check,95.1,2162.6,No,No,No,No,Yes,Yes,0.25175518792050433,0.7482448120794957
+2876-GZYZC,Cerritos,90703,13,Month-to-month,Fiber optic,Electronic check,85.95,1215.65,No,No,No,No,No,Yes,0.2521392293641087,0.7478607706358913
+1960-UYCNN,Julian,92036,10,Month-to-month,Fiber optic,Electronic check,95.25,1021.55,No,Yes,Yes,No,No,Yes,0.254256538667178,0.745743461332822
+4132-KALRO,Davis Creek,96108,4,Month-to-month,Fiber optic,Mailed check,100.85,399.25,No,No,No,Yes,Yes,Yes,0.2549526301993347,0.7450473698006653
+3338-CVVEH,Chula Vista,91913,12,Month-to-month,Fiber optic,Electronic check,94.55,1173.55,No,No,No,No,Yes,Yes,0.2553521973551277,0.7446478026448723
+3427-GGZZI,Midpines,95345,19,Month-to-month,Fiber optic,Electronic check,89.1,1620.8,No,Yes,No,No,No,Yes,0.2570735840754208,0.7429264159245792
+1628-BIZYP,Brentwood,94513,1,Month-to-month,Fiber optic,Electronic check,85.0,85.0,No,Yes,No,No,No,Yes,0.2580335694038395,0.7419664305961605
+2799-ARNLO,Bonsall,92003,5,Month-to-month,Fiber optic,Electronic check,69.35,341.6,No,No,No,No,No,No,0.25857334326310577,0.7414266567368942
+6229-LSCKB,Encino,91436,6,Month-to-month,Fiber optic,Electronic check,79.7,497.6,No,No,No,No,Yes,No,0.26086083428790763,0.7391391657120924
+2985-FMWYF,Myers Flat,95554,23,Month-to-month,Fiber optic,Electronic check,93.5,2341.55,No,No,No,No,Yes,Yes,0.2609103952441558,0.7390896047558442
+9290-SHCMB,Brownsville,95919,13,Month-to-month,Fiber optic,Electronic check,96.85,1235.55,No,No,Yes,No,Yes,Yes,0.2614489730167986,0.7385510269832014
+0018-NYROU,Antelope,95843,5,Month-to-month,Fiber optic,Electronic check,68.95,351.5,No,No,No,No,No,No,0.26280902889527236,0.7371909711047276
+0840-DFEZH,Los Angeles,90036,7,Month-to-month,Fiber optic,Electronic check,75.35,564.65,No,No,No,No,No,No,0.2644511808261585,0.7355488191738415
+9360-OMDZZ,Herald,95638,24,Month-to-month,Fiber optic,Electronic check,94.1,2322.85,No,No,No,No,Yes,Yes,0.2646391920657266,0.7353608079342734
+3292-PBZEJ,Greenview,96037,11,Month-to-month,Fiber optic,Electronic check,111.4,1183.05,No,Yes,Yes,Yes,Yes,Yes,0.2651643026024745,0.7348356973975255
+6507-ZJSUR,Albion,95410,23,Month-to-month,Fiber optic,Electronic check,90.45,2117.25,No,No,No,No,Yes,Yes,0.26526297584934955,0.7347370241506505
+5956-YHHRX,Pilot Hill,95664,21,Month-to-month,Fiber optic,Electronic check,104.35,2271.85,No,Yes,Yes,No,Yes,Yes,0.26534257215635526,0.7346574278436447
+4301-VVZKA,San Francisco,94123,16,Month-to-month,Fiber optic,Electronic check,75.4,1189.4,No,No,No,No,No,No,0.26548590669846484,0.7345140933015352
+6986-IXNDM,Three Rivers,93271,14,Month-to-month,Fiber optic,Electronic check,92.9,1337.45,No,No,No,No,Yes,Yes,0.2657062827126423,0.7342937172873577
+5429-LWCMV,Gardena,90248,12,Month-to-month,Fiber optic,Electronic check,89.15,1057.55,No,Yes,No,No,No,Yes,0.2662642584270667,0.7337357415729333
+3030-YDNRM,Pasadena,91107,8,Month-to-month,Fiber optic,Electronic check,74.85,572.45,No,No,No,No,No,No,0.26821221710384313,0.7317877828961569
+4445-ZJNMU,Manhattan Beach,90266,9,Month-to-month,Fiber optic,Credit card (automatic),99.3,918.75,No,Yes,No,No,Yes,Yes,0.26995983279719604,0.730040167202804
+3317-VLGQT,Wallace,95254,14,Month-to-month,Fiber optic,Electronic check,78.1,1122.4,No,No,No,No,No,Yes,0.26996981255579144,0.7300301874442086
+6860-YRJZP,Sacramento,95820,9,Month-to-month,Fiber optic,Electronic check,74.05,678.45,No,No,No,No,No,No,0.2705073574221487,0.7294926425778513
+9402-ORRAH,La Canada Flintridge,91011,15,Month-to-month,Fiber optic,Electronic check,91.5,1400.3,No,No,No,No,Yes,Yes,0.27082040033444477,0.7291795996655552
+3199-XGZCY,Granada Hills,91344,8,Month-to-month,Fiber optic,Electronic check,75.25,576.7,No,No,No,No,No,No,0.2710462787500201,0.7289537212499799
+8541-QVFKM,Long Beach,90807,8,Month-to-month,Fiber optic,Electronic check,73.5,632.2,No,No,No,No,No,No,0.2710462787500201,0.7289537212499799
+7392-YYPYJ,Santa Ana,92706,22,Month-to-month,Fiber optic,Electronic check,100.65,2415.95,No,Yes,No,No,Yes,Yes,0.2724836675151934,0.7275163324848066
+7402-EYFXX,Salyer,95563,26,Month-to-month,Fiber optic,Electronic check,93.6,2404.1,No,No,No,No,Yes,Yes,0.2735485995079804,0.7264514004920196
+5937-EORGB,Five Points,93624,15,Month-to-month,Fiber optic,Electronic check,96.5,1392.25,Yes,No,Yes,No,Yes,No,0.27373385834831043,0.7262661416516896
+2123-AGEEN,Millbrae,94030,7,Month-to-month,Fiber optic,Electronic check,84.35,609.65,No,No,Yes,No,Yes,No,0.2740489356598128,0.7259510643401872
+5760-IFJOZ,Richgrove,93261,3,Month-to-month,Fiber optic,Mailed check,107.95,313.6,No,Yes,Yes,No,Yes,Yes,0.2740892653358611,0.7259107346641389
+7354-OIJLX,Inglewood,90305,9,Month-to-month,Fiber optic,Electronic check,75.85,724.65,No,No,No,No,No,No,0.27486606040758743,0.7251339395924126
+5928-QLDHB,San Fernando,91340,9,Month-to-month,Fiber optic,Electronic check,76.25,684.85,No,No,No,No,No,No,0.27486606040758743,0.7251339395924126
+4559-UWIHT,Atascadero,93422,14,Month-to-month,Fiber optic,Electronic check,82.65,1185.0,No,Yes,Yes,No,No,No,0.27719485067750727,0.7228051493224927
+6215-NQCPY,Yreka,96097,15,Month-to-month,Fiber optic,Electronic check,99.7,1566.75,Yes,No,No,No,Yes,Yes,0.277652583998948,0.722347416001052
+1219-NNDDO,Los Angeles,90015,9,Month-to-month,Fiber optic,Electronic check,76.85,663.55,No,No,No,No,No,No,0.27774374511393307,0.7222562548860669
+3295-YVUSR,Glendale,91202,2,Month-to-month,Fiber optic,Mailed check,72.6,154.3,No,No,No,No,No,No,0.2778835983529572,0.7221164016470428
+8242-SOQUO,Oakland,94619,5,Month-to-month,Fiber optic,Electronic check,84.7,392.5,No,Yes,No,No,Yes,No,0.278175049440032,0.721824950559968
+9903-LYSAB,Studio City,91604,18,Month-to-month,Fiber optic,Electronic check,73.15,1305.95,No,No,No,No,No,No,0.278810766653381,0.721189233346619
+4395-PZMSN,San Gregorio,94074,5,Month-to-month,Fiber optic,Electronic check,85.55,408.5,No,Yes,No,No,No,Yes,0.2801669731166493,0.7198330268833507
+6851-WEFYX,Descanso,91916,35,Month-to-month,Fiber optic,Electronic check,100.8,3437.5,No,No,Yes,No,Yes,Yes,0.28136601441232056,0.7186339855876794
+6116-RFVHN,Roseville,95747,34,Month-to-month,Fiber optic,Electronic check,100.45,3414.65,No,No,Yes,No,Yes,Yes,0.2819182086688147,0.7180817913311853
+2081-VEYEH,Compton,90221,3,Month-to-month,Fiber optic,Electronic check,107.95,318.6,No,Yes,Yes,Yes,Yes,Yes,0.2840288010390807,0.7159711989609193
+1200-TUZHR,Posey,93260,8,Month-to-month,Fiber optic,Electronic check,85.2,695.75,No,No,No,No,No,Yes,0.28454861189695724,0.7154513881030428
+9603-OAIHC,Palmdale,93551,1,Month-to-month,Fiber optic,Electronic check,70.05,70.05,No,No,No,No,No,No,0.2851016623970377,0.7148983376029623
+6856-RAURS,Rio Oso,95674,2,Month-to-month,Fiber optic,Mailed check,74.9,136.05,No,No,No,No,No,No,0.2852401534799278,0.7147598465200722
+2688-BHGOG,Olancha,93549,9,Month-to-month,Fiber optic,Electronic check,79.55,718.55,No,No,No,No,No,Yes,0.2857143323739777,0.7142856676260223
+2235-DWLJU,Thousand Palms,92276,6,Month-to-month,DSL,Electronic check,44.4,263.05,No,No,No,No,Yes,Yes,0.28575576964785177,0.7142442303521482
+8875-AKBYH,Mineral,96063,20,Month-to-month,Fiber optic,Electronic check,84.35,1745.2,No,No,No,No,Yes,No,0.2865054699023615,0.7134945300976385
+2984-AFWNC,Rough And Ready,95975,3,Month-to-month,Fiber optic,Electronic check,95.4,293.15,No,Yes,No,No,Yes,Yes,0.28709294345660596,0.712907056543394
+9121-PHQSR,Stratford,93266,16,Month-to-month,Fiber optic,Credit card (automatic),85.05,1391.15,No,No,No,No,Yes,No,0.2879253397812215,0.7120746602187785
+3878-AVSOQ,La Jolla,92037,1,Month-to-month,Fiber optic,Electronic check,71.25,71.25,No,No,No,No,No,No,0.28804394049935356,0.7119560595006464
+9605-WGJVW,Stockton,95204,1,Month-to-month,Fiber optic,Electronic check,70.2,70.2,No,No,No,No,No,No,0.28804394049935356,0.7119560595006464
+0396-YCHWO,Sacramento,95829,36,Month-to-month,Fiber optic,Electronic check,95.4,3474.2,No,No,No,No,Yes,Yes,0.2887688407923882,0.7112311592076118
+4633-MKHYU,San Diego,92109,9,Month-to-month,Fiber optic,Mailed check,88.4,788.6,No,No,No,No,Yes,Yes,0.28950668867317,0.71049331132683
+5542-TBBWB,Lakeport,95453,1,Month-to-month,Fiber optic,Electronic check,69.9,69.9,No,No,No,No,No,No,0.2896021683282817,0.7103978316717183
+7465-ZZRVX,Ceres,95307,1,Month-to-month,Fiber optic,Electronic check,70.35,70.35,No,No,No,No,No,No,0.2896021683282817,0.7103978316717183
+4521-YEEHE,Anaheim,92805,18,Month-to-month,Fiber optic,Electronic check,88.85,1594.75,No,No,No,Yes,Yes,No,0.29092447670818256,0.7090755232918174
+4566-NECEV,Palos Verdes Peninsula,90274,5,Month-to-month,Fiber optic,Electronic check,96.55,500.1,No,Yes,Yes,No,No,Yes,0.2913503979844769,0.7086496020155231
+1640-PLFMP,Los Angeles,90026,1,Month-to-month,Fiber optic,Electronic check,70.25,70.25,No,No,No,No,No,No,0.29257188423188285,0.7074281157681171
+0722-SVSFK,Half Moon Bay,94019,7,Month-to-month,Fiber optic,Electronic check,100.4,715.0,No,No,Yes,Yes,Yes,Yes,0.29259169453619893,0.7074083054638011
+8313-NDOIA,Green Valley Lake,92341,24,Month-to-month,Fiber optic,Electronic check,104.15,2494.65,No,Yes,Yes,No,Yes,Yes,0.2929509283835108,0.7070490716164892
+5117-IFGPS,Tahoe City,96145,29,Month-to-month,Fiber optic,Electronic check,84.3,2357.75,No,No,No,No,No,Yes,0.2955825407177103,0.7044174592822897
+7206-PQBBZ,Fontana,92336,11,Month-to-month,Fiber optic,Electronic check,70.2,834.7,No,No,No,No,No,No,0.2960975644189836,0.7039024355810164
+2897-DOVND,Winterhaven,92283,2,Month-to-month,Fiber optic,Electronic check,69.8,146.65,No,No,No,No,No,No,0.2965716019610458,0.7034283980389542
+9717-QEBGU,Leggett,95585,2,Month-to-month,Fiber optic,Electronic check,70.3,144.0,No,No,No,No,No,No,0.2965716019610458,0.7034283980389542
+2665-NPTGL,Sheep Ranch,95250,26,Month-to-month,Fiber optic,Bank transfer (automatic),98.1,2510.7,No,No,Yes,No,Yes,Yes,0.2984042562614534,0.7015957437385466
+4884-ZTHVF,Santa Cruz,95065,8,Month-to-month,Fiber optic,Electronic check,87.1,713.6,No,Yes,No,No,Yes,No,0.2988849394627048,0.7011150605372952
+7394-LWLYN,Oakland,94610,2,Month-to-month,Fiber optic,Electronic check,70.15,123.8,No,No,No,No,No,No,0.2995826469165881,0.7004173530834119
+4482-EWFMI,Arcadia,91006,2,Month-to-month,Fiber optic,Electronic check,69.7,135.2,No,No,No,No,No,No,0.2995826469165881,0.7004173530834119
+5288-AHOUP,Palm Desert,92260,11,Month-to-month,Fiber optic,Electronic check,78.5,874.2,No,No,No,No,No,Yes,0.2996402918438431,0.7003597081561569
+2254-DLXRI,Burbank,91504,1,Month-to-month,Fiber optic,Mailed check,79.15,79.15,No,Yes,No,No,No,No,0.30047448751440453,0.6995255124855955
+5628-FCGYG,Riverside,92509,21,Month-to-month,Fiber optic,Electronic check,84.1,1737.45,No,No,No,No,No,Yes,0.30311458027498284,0.6968854197250172
+0644-OQMDK,Merced,95348,4,Month-to-month,Fiber optic,Electronic check,70.65,293.85,No,No,No,No,No,No,0.30610854514616936,0.6938914548538306
+1508-DFXCU,Riverside,92501,12,Month-to-month,Fiber optic,Electronic check,81.45,912.0,No,No,No,No,Yes,No,0.3062554717925614,0.6937445282074386
+7823-JSOAG,Sonoma,95476,3,Month-to-month,Fiber optic,Electronic check,74.5,217.45,No,No,No,No,No,No,0.3065052760309709,0.6934947239690291
+9633-XQABV,Los Banos,93635,3,Month-to-month,Fiber optic,Electronic check,70.25,229.7,No,No,No,No,No,No,0.3066885747267314,0.6933114252732686
+7245-NIIWQ,Fellows,93224,3,Month-to-month,Fiber optic,Electronic check,69.85,199.85,No,No,No,No,No,No,0.3066885747267314,0.6933114252732686
+6077-BDPXA,Merced,95340,3,Month-to-month,Fiber optic,Electronic check,70.15,194.2,No,No,No,No,No,No,0.3066885747267314,0.6933114252732686
+5119-NZPTV,Sacramento,95823,2,Month-to-month,Fiber optic,Electronic check,70.1,141.65,No,No,No,No,No,No,0.30718651938350505,0.692813480616495
+3629-ZNKXA,Seiad Valley,96086,17,Month-to-month,Fiber optic,Electronic check,101.8,1752.45,No,Yes,Yes,No,Yes,Yes,0.3076627863221225,0.6923372136778775
+2754-SDJRD,Somis,93066,8,Month-to-month,Fiber optic,Credit card (automatic),100.15,908.55,No,No,No,Yes,Yes,Yes,0.3083624170992385,0.6916375829007615
+5701-YVSVF,Fallbrook,92028,11,Month-to-month,Fiber optic,Electronic check,82.9,880.05,No,No,No,Yes,Yes,No,0.30864091750227607,0.6913590824977239
+3370-HXOPH,Mountain View,94041,3,Month-to-month,Fiber optic,Electronic check,76.1,257.6,No,No,No,No,No,No,0.30957279058747866,0.6904272094125213
+1028-FFNJK,Burbank,91504,30,Month-to-month,Fiber optic,Electronic check,101.5,2917.65,No,No,No,Yes,Yes,Yes,0.3122320374538017,0.6877679625461983
+5216-WASFJ,Challenge,95925,31,Month-to-month,Fiber optic,Electronic check,84.85,2633.4,No,No,No,No,No,Yes,0.3128663925088462,0.6871336074911538
+8873-GLDMH,Courtland,95615,6,Month-to-month,Fiber optic,Mailed check,73.85,401.3,No,No,No,No,No,No,0.31344620796751865,0.6865537920324813
+9696-RMYBA,Los Angeles,90003,5,Month-to-month,Fiber optic,Mailed check,80.1,398.55,No,No,No,No,Yes,No,0.3141866659942877,0.6858133340057123
+1251-STYSZ,Glenhaven,95443,4,Month-to-month,Fiber optic,Electronic check,80.25,303.7,Yes,No,No,No,No,No,0.3149146108785724,0.6850853891214276
+3904-UKFRE,Stockton,95205,4,Month-to-month,Fiber optic,Electronic check,80.1,336.15,Yes,No,No,No,No,No,0.31655356907397636,0.6834464309260236
+9279-CJEOJ,Anaheim,92801,21,Month-to-month,Fiber optic,Bank transfer (automatic),95.4,2025.1,No,No,No,No,Yes,Yes,0.3187881856220317,0.6812118143779683
+0432-CAJZV,Onyx,93255,3,Month-to-month,Fiber optic,Mailed check,90.7,237.65,No,No,No,No,Yes,Yes,0.31894840777751665,0.6810515922224833
+4770-UEZOX,Whitethorn,95589,2,Month-to-month,Fiber optic,Electronic check,74.75,144.8,No,Yes,No,No,No,No,0.3194148728185209,0.6805851271814791
+0793-TWELN,Los Angeles,90026,4,Month-to-month,Fiber optic,Electronic check,80.15,319.85,Yes,No,No,No,No,No,0.3196752911684416,0.6803247088315584
+1104-TNLZA,Klamath River,96050,28,Month-to-month,Fiber optic,Electronic check,105.8,2998.0,No,Yes,No,Yes,Yes,Yes,0.32087169037819496,0.679128309621805
+0928-XUTSN,Brawley,92227,13,Month-to-month,Fiber optic,Electronic check,80.5,1011.8,No,No,No,No,No,Yes,0.3218324548843544,0.6781675451156456
+2674-MIAHT,Blocksburg,95514,4,Month-to-month,Fiber optic,Mailed check,80.3,324.2,No,Yes,No,No,No,No,0.3221037232611712,0.6778962767388288
+0848-ZGQIJ,Saratoga,95070,16,Month-to-month,Fiber optic,Bank transfer (automatic),94.65,1461.15,No,Yes,No,No,Yes,Yes,0.3231066226438686,0.6768933773561314
+6267-DCFFZ,Madeline,96119,30,Month-to-month,Fiber optic,Electronic check,90.05,2627.2,No,Yes,No,No,Yes,No,0.32355835361016005,0.67644164638984
+6435-SRWBJ,Los Angeles,90068,5,Month-to-month,Fiber optic,Electronic check,82.75,417.75,No,No,Yes,Yes,No,No,0.3239963946384157,0.6760036053615843
+6198-ZFIOJ,Willits,95490,5,Month-to-month,Fiber optic,Electronic check,75.6,402.5,No,No,No,No,No,No,0.32413393045157113,0.6758660695484289
+2439-LYPMQ,Milford,96121,38,Month-to-month,Fiber optic,Electronic check,102.6,4009.2,No,Yes,Yes,No,Yes,Yes,0.3252909030365252,0.6747090969634748
+3453-RTHJQ,San Bernardino,92407,6,Month-to-month,Fiber optic,Electronic check,69.1,435.0,No,No,No,No,No,No,0.32538806615891935,0.6746119338410806
+3420-YJLQT,Alturas,96101,2,Month-to-month,Fiber optic,Electronic check,79.55,151.75,No,Yes,No,No,No,No,0.3255148501859939,0.6744851498140061
+3496-LFSZU,Anaheim,92801,4,Month-to-month,Fiber optic,Electronic check,70.5,294.2,No,No,No,No,No,No,0.32650198753521154,0.6734980124647885
+2809-ZMYOQ,Camptonville,95922,32,Month-to-month,Fiber optic,Electronic check,101.35,3334.9,No,No,Yes,No,Yes,Yes,0.32757057780150667,0.6724294221984933
+6030-REHUX,Fountain Valley,92708,28,Month-to-month,Fiber optic,Electronic check,110.85,3204.4,No,Yes,Yes,Yes,Yes,Yes,0.3282556530621984,0.6717443469378016
+2504-DSHIH,Thousand Oaks,91360,23,Month-to-month,Fiber optic,Electronic check,86.8,1975.85,No,No,No,No,No,Yes,0.32852601496489164,0.6714739850351084
+2905-KFQUV,Moss Beach,94038,2,Month-to-month,Fiber optic,Credit card (automatic),70.4,154.8,No,No,No,No,No,No,0.33008687958129435,0.6699131204187057
+8266-VBFQL,Jamul,91935,4,Month-to-month,Fiber optic,Electronic check,90.4,356.65,No,No,Yes,Yes,No,Yes,0.33009896608897005,0.66990103391103
+3951-NJCVI,Cathedral City,92234,42,Month-to-month,Fiber optic,Electronic check,95.05,3944.5,No,No,No,No,Yes,Yes,0.33023559950139714,0.6697644004986029
+4647-MUZON,Port Hueneme,93041,18,Month-to-month,Fiber optic,Credit card (automatic),95.95,1745.5,No,No,Yes,No,Yes,Yes,0.3303103498865293,0.6696896501134707
+0928-JMXNP,Los Molinos,96055,4,Month-to-month,DSL,Electronic check,29.9,118.25,No,No,Yes,No,No,No,0.3307040271503401,0.6692959728496599
+5339-PXDVH,Clipper Mills,95930,4,Month-to-month,Fiber optic,Electronic check,90.65,367.95,Yes,No,No,No,Yes,No,0.33078050778904566,0.6692194922109543
+2107-FBPTK,Ramona,92065,30,Month-to-month,Fiber optic,Electronic check,104.1,3121.1,No,Yes,Yes,No,Yes,Yes,0.3315384677184813,0.6684615322815187
+7315-WYOAW,Santa Monica,90405,13,Month-to-month,Fiber optic,Electronic check,100.75,1313.25,No,No,No,Yes,Yes,Yes,0.3315579893037398,0.6684420106962602
+3841-CONLJ,Morro Bay,93442,1,Month-to-month,DSL,Electronic check,35.0,35.0,No,No,No,No,No,Yes,0.3319106621692238,0.6680893378307762
+6705-LXORM,Perris,92570,5,Month-to-month,Fiber optic,Electronic check,70.05,302.6,No,No,No,No,No,No,0.332256780381319,0.667743219618681
+4291-SHSBH,Modesto,95354,7,Month-to-month,Fiber optic,Electronic check,69.55,521.35,No,No,No,No,No,No,0.3328152388086013,0.6671847611913987
+4815-GBTCD,Wishon,93669,4,Month-to-month,DSL,Electronic check,25.15,99.95,No,No,No,No,No,No,0.33449460959295807,0.6655053904070419
+2038-OEQZH,Menifee,92584,4,Month-to-month,Fiber optic,Electronic check,86.05,308.1,No,No,Yes,No,No,Yes,0.33451879927772166,0.6654812007222783
+1016-DJTSV,Santee,92071,8,Month-to-month,Fiber optic,Electronic check,69.7,572.85,No,No,No,No,No,No,0.33540981778444245,0.6645901822155575
+6918-UMQCG,Orange,92869,5,Month-to-month,Fiber optic,Electronic check,80.2,384.25,No,No,No,No,Yes,No,0.33550988772036383,0.6644901122796362
+6407-UTSLV,Compton,90222,2,Month-to-month,Fiber optic,Bank transfer (automatic),83.8,163.7,No,Yes,No,No,Yes,No,0.3355255331142065,0.6644744668857935
+7590-VHVEG,Los Angeles,90001,1,Month-to-month,DSL,Electronic check,29.85,29.85,No,Yes,No,No,No,No,0.335897732242158,0.664102267757842
+1754-GKYPY,Carson,90746,22,Month-to-month,Fiber optic,Bank transfer (automatic),89.75,1938.9,No,No,No,No,Yes,Yes,0.33597610016959856,0.6640238998304014
+1226-IENZN,Los Angeles,90024,16,Month-to-month,Fiber optic,Electronic check,78.75,1218.25,No,No,No,No,No,Yes,0.3360797742507201,0.6639202257492799
+1475-VWVDO,Dos Palos,93620,7,Month-to-month,Fiber optic,Electronic check,74.9,490.55,No,No,Yes,No,No,No,0.3371128057185848,0.6628871942814152
+7517-LDMPS,Modesto,95356,12,Month-to-month,Fiber optic,Electronic check,84.6,1017.35,No,Yes,No,No,No,Yes,0.33809669004142695,0.661903309958573
+5091-HFAZW,Santa Fe Springs,90670,2,Month-to-month,Fiber optic,Electronic check,91.15,168.5,Yes,Yes,No,No,Yes,No,0.33987333682869714,0.6601266631713029
+4716-HHKQH,Pomona,91767,20,Month-to-month,Fiber optic,Electronic check,107.05,2172.05,No,Yes,No,Yes,Yes,Yes,0.33995738723048763,0.6600426127695124
+8325-QRPZR,Benicia,94510,7,Month-to-month,Fiber optic,Electronic check,75.15,525.0,No,No,Yes,No,No,No,0.34033631264286623,0.6596636873571338
+2135-DQWAQ,Santa Barbara,93111,5,Month-to-month,Fiber optic,Mailed check,85.3,420.45,No,Yes,No,No,Yes,No,0.34096169283430133,0.6590383071656987
+5399-ZIMKF,San Simeon,93452,5,Month-to-month,Fiber optic,Electronic check,74.65,383.65,No,Yes,No,No,No,No,0.34174144093346515,0.6582585590665349
+7801-KICAO,Pasadena,91103,18,Month-to-month,Fiber optic,Electronic check,74.15,1345.75,No,No,No,No,No,No,0.3423307267556329,0.6576692732443671
+5652-MSDEY,Sutter Creek,95685,10,Month-to-month,Fiber optic,Mailed check,75.75,777.3,No,No,No,No,No,No,0.34310255804632883,0.6568974419536712
+8648-PFRMP,Ferndale,95536,14,Month-to-month,DSL,Electronic check,46.35,672.7,No,No,No,No,Yes,Yes,0.34367247778251986,0.6563275222174801
+3411-WLRSQ,Los Angeles,90038,3,Month-to-month,Fiber optic,Bank transfer (automatic),74.6,239.05,No,Yes,No,No,No,No,0.34472492967175494,0.6552750703282451
+0674-DGMAQ,Elk,95432,32,Month-to-month,Fiber optic,Electronic check,93.5,2970.8,No,Yes,Yes,No,No,Yes,0.34502126734521876,0.6549787326547812
+1078-TDCRN,Agoura Hills,91301,3,Month-to-month,DSL,Electronic check,30.75,82.85,No,Yes,No,No,No,No,0.3460771209211432,0.6539228790788568
+6242-MBHPK,Hathaway Pines,95233,23,Month-to-month,Fiber optic,Electronic check,95.1,2326.05,Yes,No,No,No,Yes,Yes,0.34619996045992985,0.6538000395400702
+0225-ZORZP,Groveland,95321,3,Month-to-month,Fiber optic,Electronic check,84.3,235.05,No,Yes,No,No,No,Yes,0.34670967389958196,0.653290326100418
+8309-IEYJD,Indian Wells,92210,1,Month-to-month,Fiber optic,Mailed check,70.6,70.6,No,No,No,No,No,No,0.34697557499707976,0.6530244250029202
+9741-YLNTD,Greenfield,93927,6,Month-to-month,Fiber optic,Bank transfer (automatic),87.95,522.35,No,No,No,Yes,No,Yes,0.3474039052560428,0.6525960947439572
+8270-RKSAP,Anaheim,92801,9,Month-to-month,Fiber optic,Electronic check,70.5,597.9,No,No,No,No,No,No,0.34791871402259167,0.6520812859774083
+8035-PWSEV,Hayward,94542,6,Month-to-month,Fiber optic,Electronic check,89.25,487.05,No,No,Yes,Yes,No,Yes,0.3484028767670281,0.6515971232329719
+9617-INGJY,Manhattan Beach,90266,1,Month-to-month,Fiber optic,Mailed check,70.6,70.6,No,No,No,No,No,No,0.34869646426253953,0.6513035357374605
+0258-NOKBL,Fortuna,95540,3,Month-to-month,Fiber optic,Electronic check,90.4,268.45,No,Yes,Yes,No,No,Yes,0.35109224267103456,0.6489077573289654
+5032-MIYKT,Weott,95571,1,Month-to-month,Fiber optic,Mailed check,70.7,70.7,No,No,No,No,No,No,0.3519719230980103,0.6480280769019897
+4583-PARNH,Kerman,93630,16,Month-to-month,Fiber optic,Electronic check,91.55,1540.05,No,No,Yes,Yes,No,Yes,0.35226633357395254,0.6477336664260475
+6339-YPSAH,Tehama,96090,9,Month-to-month,Fiber optic,Electronic check,73.8,704.3,No,No,Yes,No,No,No,0.3523083238499649,0.6476916761500351
+0749-IRGQE,Buena Park,90621,13,Month-to-month,DSL,Electronic check,45.3,528.45,No,No,No,No,Yes,Yes,0.35245595104948924,0.6475440489505108
+8714-CTZJW,Pilot Hill,95664,4,Month-to-month,Fiber optic,Credit card (automatic),82.85,319.6,No,No,Yes,No,No,Yes,0.3533648154975607,0.6466351845024393
+4299-SIMNS,Temple City,91780,9,Month-to-month,Fiber optic,Electronic check,81.15,784.45,Yes,No,No,No,No,No,0.35401022056580655,0.6459897794341934
+8132-YPVBX,Salinas,93907,6,Month-to-month,Fiber optic,Mailed check,85.95,514.6,No,Yes,No,No,No,Yes,0.3540961802109732,0.6459038197890268
+8709-KRDVL,Scott Bar,96085,33,Month-to-month,Fiber optic,Electronic check,100.0,3320.6,No,Yes,No,No,Yes,Yes,0.3548858634989792,0.6451141365010208
+0899-LIIBW,Forks Of Salmon,96031,34,Month-to-month,Fiber optic,Electronic check,100.85,3527.3,No,No,Yes,No,Yes,Yes,0.3557275463456635,0.6442724536543365
+5044-LRQAQ,Ladera Ranch,92694,7,Month-to-month,Fiber optic,Bank transfer (automatic),69.2,477.55,No,No,No,No,No,No,0.35594961682886184,0.6440503831711382
+0139-IVFJG,Inyokern,93527,2,Month-to-month,Fiber optic,Electronic check,90.35,190.5,Yes,Yes,No,No,Yes,No,0.35628858511902606,0.6437114148809739
+7379-FNIUJ,Olympic Valley,96146,2,Month-to-month,Fiber optic,Electronic check,100.2,198.5,Yes,Yes,No,No,Yes,Yes,0.3568731848420881,0.6431268151579119
+7422-WNBTY,Green Valley Lake,92341,33,Month-to-month,Fiber optic,Electronic check,93.35,3092.0,No,Yes,Yes,No,No,Yes,0.3576956899886171,0.6423043100113829
+7176-WIONM,Bishop,93514,12,Month-to-month,DSL,Bank transfer (automatic),49.85,617.15,No,No,Yes,No,Yes,Yes,0.35781052978949046,0.6421894702105095
+0411-EZJZE,Stockton,95215,3,Month-to-month,DSL,Electronic check,60.25,170.5,No,No,No,No,Yes,No,0.3579486745235547,0.6420513254764453
+9494-MRNYX,Meadow Valley,95956,10,Month-to-month,Fiber optic,Electronic check,75.05,786.3,No,No,No,No,No,No,0.35869525597687535,0.6413047440231247
+9208-OLGAQ,Berkeley,94709,18,Month-to-month,Fiber optic,Electronic check,84.95,1443.65,No,No,Yes,No,No,Yes,0.35896696455109756,0.6410330354489024
+3003-CMDUU,Santa Paula,93060,25,Month-to-month,Fiber optic,Electronic check,95.15,2395.7,No,No,No,Yes,Yes,Yes,0.35901041753130103,0.640989582468699
+4686-UXDML,Cutler,93615,21,Month-to-month,Fiber optic,Credit card (automatic),99.85,1992.55,No,Yes,No,No,Yes,Yes,0.35967844542738725,0.6403215545726128
+1751-NCDLI,Castroville,95012,46,Month-to-month,Fiber optic,Electronic check,98.85,4564.9,No,No,Yes,No,Yes,Yes,0.36177684427297785,0.6382231557270222
+6496-JDSSB,Oak Park,91377,8,Month-to-month,Fiber optic,Bank transfer (automatic),80.0,624.6,No,No,No,No,Yes,No,0.3619989334549537,0.6380010665450463
+0491-KAPQG,Pine Valley,91962,21,Month-to-month,Fiber optic,Electronic check,73.7,1558.7,No,No,No,No,No,No,0.3620684979125146,0.6379315020874854
+2969-QWUBZ,Los Altos,94022,2,Month-to-month,DSL,Electronic check,51.4,96.8,No,Yes,No,No,Yes,Yes,0.3621483760178761,0.6378516239821239
+5233-AOZUF,Palm Springs,92262,29,Month-to-month,Fiber optic,Electronic check,74.95,2149.05,No,No,No,No,No,No,0.3621738232882217,0.6378261767117783
+5405-ZMYXQ,Los Angeles,90019,8,Month-to-month,Fiber optic,Credit card (automatic),74.6,548.9,No,No,No,No,No,No,0.3624433989485688,0.6375566010514312
+1766-GKNMI,Bakersfield,93307,29,Month-to-month,Fiber optic,Electronic check,84.9,2516.2,No,No,No,No,No,Yes,0.3627626376143185,0.6372373623856815
+4029-HPFVY,San Francisco,94118,3,Month-to-month,Fiber optic,Mailed check,70.3,220.4,No,No,No,No,No,No,0.3641273077186392,0.6358726922813608
+4983-CCWMC,Creston,93432,3,Month-to-month,Fiber optic,Mailed check,69.6,207.4,No,No,No,No,No,No,0.3641273077186392,0.6358726922813608
+1666-JXLKU,Shingle Springs,95682,37,Month-to-month,Fiber optic,Electronic check,100.05,3810.55,No,No,Yes,No,Yes,Yes,0.365633424664376,0.634366575335624
+7714-YXSMB,Irvine,92612,26,Month-to-month,Fiber optic,Bank transfer (automatic),100.5,2599.95,No,No,Yes,No,Yes,Yes,0.3658925552559896,0.6341074447440104
+3211-AAPKX,Woodland,95776,20,Month-to-month,Fiber optic,Mailed check,98.55,2031.95,No,No,No,Yes,Yes,Yes,0.3662059625303977,0.6337940374696023
+1932-UEDCX,Manchester,95459,33,Month-to-month,Fiber optic,Bank transfer (automatic),100.6,3270.25,No,Yes,No,No,Yes,Yes,0.36681626954390034,0.6331837304560997
+4536-PLEQY,Los Angeles,90058,12,Month-to-month,Fiber optic,Credit card (automatic),85.05,999.8,No,Yes,No,No,No,Yes,0.36709840002443117,0.6329015999755688
+4059-IIEBK,Ojai,93023,7,Month-to-month,Fiber optic,Bank transfer (automatic),78.55,522.95,No,Yes,No,No,No,No,0.3671198897773913,0.6328801102226087
+0447-RXSGD,Monterey,93940,24,Month-to-month,Fiber optic,Bank transfer (automatic),99.65,2404.85,No,Yes,No,No,Yes,Yes,0.3673444397807686,0.6326555602192314
+5989-PGKJB,San Diego,92121,16,Month-to-month,Fiber optic,Electronic check,86.25,1340.1,No,Yes,No,No,No,Yes,0.3688323646099443,0.6311676353900557
+3597-MVHJT,Brawley,92227,27,Month-to-month,Fiber optic,Bank transfer (automatic),95.6,2595.25,No,No,No,No,Yes,Yes,0.36922770402318694,0.6307722959768131
+9050-IKDZA,Clovis,93611,2,Month-to-month,Fiber optic,Mailed check,81.5,162.55,No,No,No,No,Yes,No,0.3696492499861561,0.6303507500138439
+5879-SESNB,Moraga,94556,11,Month-to-month,Fiber optic,Electronic check,75.25,888.65,No,No,No,No,No,No,0.3698173040358773,0.6301826959641227
+4612-SSVHJ,Yermo,92398,20,Month-to-month,Fiber optic,Electronic check,81.45,1671.6,No,No,No,No,No,Yes,0.370082300295528,0.629917699704472
+0196-JTUQI,Clarksburg,95612,9,Month-to-month,Fiber optic,Credit card (automatic),75.2,633.85,No,No,No,No,No,No,0.37025216937557304,0.629747830624427
+5119-KEPFY,San Jose,95131,36,Month-to-month,Fiber optic,Bank transfer (automatic),95.0,3440.25,No,No,No,No,Yes,Yes,0.3704659108563897,0.6295340891436103
+3365-SAIGS,Rancho Santa Fe,92067,17,Month-to-month,Fiber optic,Electronic check,83.55,1329.15,No,Yes,No,No,Yes,No,0.3710115772005629,0.6289884227994371
+2262-SLNVK,Birds Landing,94512,1,Month-to-month,Fiber optic,Electronic check,70.1,70.1,No,No,No,No,No,No,0.3710944777611628,0.6289055222388372
+6833-JMZYP,Hesperia,92345,15,Month-to-month,Fiber optic,Credit card (automatic),94.0,1505.45,No,No,Yes,No,Yes,Yes,0.3717659167486108,0.6282340832513892
+2800-VEQXM,Lebec,93243,3,Month-to-month,Fiber optic,Mailed check,74.75,238.1,No,No,Yes,No,No,No,0.3719614886305186,0.6280385113694814
+7365-BVCJH,Trinity Center,96091,1,Month-to-month,DSL,Electronic check,24.4,24.4,No,No,No,No,No,No,0.3728091978292951,0.6271908021707049
+3420-ZDBMA,Brea,92821,5,Month-to-month,Fiber optic,Mailed check,71.45,371.6,No,No,No,No,No,No,0.37467953138011934,0.6253204686198807
+9133-AYJZG,Mill Valley,94941,23,Month-to-month,Fiber optic,Credit card (automatic),98.7,2249.1,No,Yes,No,No,Yes,Yes,0.3753152238391051,0.6246847761608949
+5043-TRZWM,Los Angeles,90022,1,Month-to-month,Fiber optic,Electronic check,75.55,75.55,No,No,Yes,No,No,No,0.37560806241942923,0.6243919375805708
+8903-WMRNW,Durham,95938,15,Month-to-month,Fiber optic,Electronic check,101.75,1669.4,Yes,No,Yes,No,Yes,Yes,0.37560841224178876,0.6243915877582112
+0420-HLGXF,Visalia,93291,39,Month-to-month,Fiber optic,Electronic check,99.75,4036.0,No,No,Yes,No,Yes,Yes,0.37620347210252614,0.6237965278974739
+5453-AXEPF,San Jose,95134,17,Month-to-month,Fiber optic,Bank transfer (automatic),80.5,1336.9,No,Yes,No,No,No,No,0.37621613552563027,0.6237838644743697
+3312-UUMZW,San Jose,95117,32,Month-to-month,Fiber optic,Credit card (automatic),98.85,3145.9,No,Yes,No,No,Yes,Yes,0.3765616580306729,0.6234383419693271
+0434-CSFON,Los Angeles,90071,47,Month-to-month,Fiber optic,Electronic check,100.5,4707.1,No,No,Yes,No,Yes,Yes,0.37809262702744173,0.6219073729725583
+0620-DLSLK,Pasadena,91103,13,Month-to-month,Fiber optic,Mailed check,81.9,1028.9,No,No,No,No,Yes,No,0.3782200240802308,0.6217799759197692
+5442-BHQNG,Brooks,95606,2,Month-to-month,Fiber optic,Electronic check,70.35,139.25,No,No,No,No,No,No,0.3789788418093649,0.6210211581906351
+9506-UXUSK,San Jose,95116,13,Month-to-month,Fiber optic,Electronic check,70.15,931.75,No,No,No,No,No,No,0.3790359733928055,0.6209640266071945
+7952-OBOYL,Upland,91786,3,Month-to-month,Fiber optic,Mailed check,89.85,244.45,No,No,Yes,Yes,Yes,No,0.3791579175821962,0.6208420824178038
+8104-OSKWT,Anaheim,92804,12,Month-to-month,Fiber optic,Electronic check,79.8,1001.2,Yes,No,No,No,No,No,0.38080146791938074,0.6191985320806193
+1302-UHBDD,Ladera Ranch,92694,20,Month-to-month,Fiber optic,Electronic check,89.95,1648.45,No,No,No,No,Yes,Yes,0.3819554911787818,0.6180445088212182
+7426-RHZGU,Oakland,94603,9,Month-to-month,Fiber optic,Bank transfer (automatic),95.9,827.45,No,No,No,Yes,Yes,Yes,0.38270513570205167,0.6172948642979483
+4137-BTIKL,Daggett,92327,2,Month-to-month,Fiber optic,Mailed check,90.75,174.75,Yes,No,No,No,No,Yes,0.3834090758703631,0.6165909241296369
+9773-PEQBZ,Lake Elsinore,92530,10,Month-to-month,Fiber optic,Electronic check,79.85,797.25,No,Yes,No,No,No,No,0.3837133746145571,0.6162866253854429
+8404-GFGCZ,Millville,96062,4,Month-to-month,DSL,Electronic check,65.6,250.1,No,No,Yes,No,Yes,No,0.38381445355313104,0.616185546446869
+0147-ESWWR,Atascadero,93422,39,Month-to-month,Fiber optic,Electronic check,101.25,3949.15,No,No,No,Yes,Yes,Yes,0.3840111406413176,0.6159888593586824
+8224-DWCKX,Burlingame,94010,12,Month-to-month,Fiber optic,Credit card (automatic),73.3,828.05,No,No,No,No,No,No,0.3854247720470162,0.6145752279529838
+1636-NTNCO,Valley Village,91607,4,Month-to-month,DSL,Credit card (automatic),50.95,207.35,No,Yes,No,No,Yes,Yes,0.3855641937578481,0.6144358062421519
+3223-DWFIO,Forks Of Salmon,96031,4,Month-to-month,Fiber optic,Electronic check,69.35,261.65,No,No,No,No,No,No,0.3862804250997356,0.6137195749002644
+4854-CIDCF,Los Angeles,90065,3,Month-to-month,Fiber optic,Electronic check,73.85,196.4,No,No,Yes,No,No,No,0.38629087428369746,0.6137091257163025
+6923-JHPMP,Templeton,93465,2,Month-to-month,Fiber optic,Electronic check,80.45,137.1,Yes,No,Yes,No,No,No,0.3866586909226265,0.6133413090773735
+2761-XECQW,Glenhaven,95443,8,Month-to-month,DSL,Mailed check,43.35,371.4,No,Yes,Yes,No,No,Yes,0.38774556774616664,0.6122544322538334
+1212-GLHMD,San Joaquin,93660,3,Month-to-month,Fiber optic,Mailed check,86.05,244.85,Yes,No,No,No,No,Yes,0.38817432117914985,0.6118256788208501
+9885-AIBVB,Newcastle,95658,29,Month-to-month,Fiber optic,Electronic check,85.8,2440.25,No,Yes,Yes,No,No,No,0.38845165352122446,0.6115483464787755
+0315-LVCRK,El Dorado Hills,95762,11,Month-to-month,Fiber optic,Electronic check,84.8,888.75,No,No,Yes,No,No,Yes,0.38880449448076493,0.6111955055192351
+0682-USIXD,Diamond Bar,91765,21,Month-to-month,Fiber optic,Electronic check,86.05,1818.9,No,No,No,Yes,Yes,No,0.3898108197020176,0.6101891802979824
+2325-NBPZG,Novato,94949,3,Month-to-month,Fiber optic,Electronic check,74.55,233.65,Yes,No,No,No,No,No,0.39006668755621177,0.6099333124437882
+3771-PZOBW,Solvang,93463,20,Month-to-month,Fiber optic,Credit card (automatic),90.7,1781.35,No,No,Yes,No,Yes,No,0.39016911943445975,0.6098308805655402
+0921-OHLVP,Paradise,95969,22,Month-to-month,Fiber optic,Electronic check,83.05,1799.3,No,No,No,No,No,Yes,0.3909146231941055,0.6090853768058945
+2203-GHNWN,Julian,92036,24,Month-to-month,Fiber optic,Mailed check,79.65,1928.7,No,No,Yes,No,No,No,0.39119208058982347,0.6088079194101765
+1100-DDVRV,Twain Harte,95383,17,Month-to-month,DSL,Mailed check,49.8,836.35,No,Yes,No,No,Yes,Yes,0.3913217615220663,0.6086782384779337
+4450-DLLMH,Avalon,90704,2,Month-to-month,Fiber optic,Credit card (automatic),71.3,157.75,No,No,No,No,No,No,0.39194793992325827,0.6080520600767417
+9167-APMXZ,Long Beach,90810,22,Month-to-month,Fiber optic,Bank transfer (automatic),84.15,1821.95,No,No,No,No,Yes,No,0.3923090140385279,0.6076909859614721
+2959-FENLU,Los Gatos,95033,9,Month-to-month,Fiber optic,Credit card (automatic),85.3,781.4,No,No,Yes,No,No,Yes,0.3926746149138334,0.6073253850861666
+3196-NVXLZ,Orange Cove,93646,25,Month-to-month,Fiber optic,Mailed check,84.6,2088.05,No,No,No,No,Yes,No,0.39285970278743854,0.6071402972125615
+5692-ICXLW,Escondido,92027,31,Month-to-month,Fiber optic,Electronic check,90.7,2845.15,No,Yes,No,No,Yes,No,0.3928933050212503,0.6071066949787497
+8695-ARGXZ,Fresno,93722,34,Month-to-month,Fiber optic,Electronic check,75.55,2425.4,No,No,No,No,No,No,0.39314472859037775,0.6068552714096223
+4998-IKFSE,Phelan,92371,30,Month-to-month,Fiber optic,Electronic check,100.45,3096.9,No,No,Yes,No,Yes,Yes,0.3938704942014478,0.6061295057985522
+7318-EIVKO,Shandon,93461,8,Month-to-month,DSL,Electronic check,59.25,436.6,No,No,No,No,Yes,No,0.39401360308969824,0.6059863969103018
+4741-WWJQZ,Forestville,95436,2,Month-to-month,Fiber optic,Electronic check,80.15,194.55,Yes,No,No,Yes,No,No,0.39454610362185194,0.6054538963781481
+5271-DBYSJ,Berkeley,94708,11,Month-to-month,Fiber optic,Credit card (automatic),79.15,827.7,No,No,No,No,No,Yes,0.3954487118878188,0.6045512881121812
+2187-PKZAY,Stevinson,95374,12,Month-to-month,Fiber optic,Bank transfer (automatic),79.95,1043.4,No,No,No,No,No,Yes,0.3959804265582496,0.6040195734417504
+9840-EFJQB,Sylmar,91342,1,Month-to-month,Fiber optic,Electronic check,74.35,74.35,No,Yes,No,No,No,No,0.39644279884459577,0.6035572011554042
+5599-HVLTW,Oakland,94609,14,Month-to-month,Fiber optic,Bank transfer (automatic),80.35,1058.1,No,No,Yes,No,No,No,0.39675223264922765,0.6032477673507723
+6704-UTUKK,Exeter,93221,29,Month-to-month,DSL,Electronic check,45.9,1332.4,No,No,No,No,Yes,Yes,0.3970330164250888,0.6029669835749112
+5606-AMZBO,Rosamond,93560,10,Month-to-month,Fiber optic,Credit card (automatic),78.15,765.15,Yes,No,No,No,No,No,0.39844870318843884,0.6015512968115612
+1194-HVAIF,Capistrano Beach,92624,27,Month-to-month,Fiber optic,Credit card (automatic),95.0,2462.55,No,No,No,No,Yes,Yes,0.3989628038159455,0.6010371961840545
+0958-YHXGP,Oakland,94621,7,Month-to-month,Fiber optic,Mailed check,69.9,497.3,No,No,No,No,No,No,0.3992610212276064,0.6007389787723936
+3384-CTMSF,Lincoln,95648,47,Month-to-month,Fiber optic,Electronic check,104.1,5135.15,No,Yes,Yes,No,Yes,Yes,0.4001529118987902,0.5998470881012098
+2080-GKCWQ,San Pablo,94806,2,Month-to-month,Fiber optic,Electronic check,74.95,151.75,No,Yes,No,No,No,No,0.40105748882381786,0.5989425111761821
+6175-IRFIT,Bangor,95914,5,Month-to-month,Fiber optic,Mailed check,78.75,426.35,No,No,No,No,No,Yes,0.4010896360721362,0.5989103639278638
+9572-WUKSB,South Pasadena,91030,3,Month-to-month,DSL,Electronic check,29.9,92.25,No,No,No,Yes,No,No,0.4011980243341565,0.5988019756658435
+7284-BUYEC,Tulelake,96134,5,Month-to-month,DSL,Credit card (automatic),50.95,229.4,No,Yes,No,No,Yes,Yes,0.40227657798880645,0.5977234220111936
+5183-SNMJQ,Frazier Park,93225,10,Month-to-month,Fiber optic,Credit card (automatic),95.1,865.1,No,No,No,Yes,Yes,Yes,0.40346482529239447,0.5965351747076055
+9921-QFQUL,Garden Valley,95633,23,Month-to-month,Fiber optic,Mailed check,90.15,2044.95,No,No,Yes,No,No,Yes,0.4045227881718698,0.5954772118281302
+8617-ENBDS,Helendale,92342,3,Month-to-month,Fiber optic,Credit card (automatic),73.6,232.5,No,No,Yes,No,No,No,0.404632501556758,0.595367498443242
+2041-JIJCI,Wendel,96136,5,Month-to-month,DSL,Electronic check,64.0,370.25,No,Yes,No,No,No,Yes,0.40480243422956297,0.595197565770437
+3703-KBKZP,Standish,96128,16,Month-to-month,Fiber optic,Bank transfer (automatic),74.45,1261.35,No,No,No,No,No,No,0.4048202032072964,0.5951797967927036
+5666-CYCYZ,Montebello,90640,24,Month-to-month,Fiber optic,Electronic check,89.55,2259.35,No,No,No,Yes,No,Yes,0.40571238185130887,0.5942876181486911
+1746-TGTWV,Whittier,90604,1,Month-to-month,Fiber optic,Credit card (automatic),75.35,75.35,No,No,Yes,No,No,No,0.40585449865893786,0.5941455013410621
+7924-GJZFI,Jackson,95642,25,Month-to-month,Fiber optic,Electronic check,69.3,1813.1,No,No,No,No,No,No,0.40598092157503396,0.594019078424966
+7278-CKDNC,Fresno,93701,24,Month-to-month,Fiber optic,Electronic check,80.5,2088.45,No,Yes,No,No,No,No,0.4060687752264708,0.5939312247735292
+2740-TVLFN,Manteca,95337,1,Month-to-month,DSL,Electronic check,50.15,50.15,No,No,No,No,No,No,0.40720144370971967,0.5927985562902803
+8160-HOWOX,San Bernardino,92407,7,Month-to-month,DSL,Electronic check,66.85,458.1,No,No,No,No,Yes,Yes,0.40758429151202946,0.5924157084879705
+0428-IKYCP,Sonora,95370,22,Month-to-month,Fiber optic,Bank transfer (automatic),87.0,1850.65,No,No,Yes,No,Yes,No,0.4076000256545207,0.5923999743454793
+5857-TYBCJ,Dixon,95620,44,Month-to-month,Fiber optic,Electronic check,89.2,4040.2,No,No,Yes,No,Yes,No,0.40882449841563673,0.5911755015843633
+1658-TJVOA,Cazadero,95421,6,Month-to-month,Fiber optic,Electronic check,74.1,450.9,Yes,No,No,No,No,No,0.40900245646379807,0.5909975435362019
+5482-VXSXJ,Tehama,96090,22,Month-to-month,Fiber optic,Mailed check,93.2,2157.3,No,Yes,No,No,Yes,Yes,0.40911076086380516,0.5908892391361948
+6103-BOCOU,San Francisco,94117,26,Month-to-month,Fiber optic,Electronic check,80.7,2193.0,No,No,Yes,No,No,No,0.4098668243702618,0.5901331756297382
+9129-UXERG,Van Nuys,91405,18,Month-to-month,Fiber optic,Credit card (automatic),103.6,1806.35,No,Yes,No,Yes,Yes,Yes,0.4099492388257179,0.5900507611742821
+0248-IPDFW,Lake Elsinore,92530,1,Month-to-month,DSL,Electronic check,50.1,50.1,No,No,No,No,No,No,0.41067993815444825,0.5893200618455517
+9432-VOFYX,Delano,93215,17,Month-to-month,Fiber optic,Electronic check,70.8,1207.0,No,No,No,No,No,No,0.4111813905406251,0.5888186094593749
+1384-RCUXW,French Gulch,96033,16,Month-to-month,Fiber optic,Mailed check,80.55,1248.9,No,Yes,No,No,No,No,0.4122099341709179,0.5877900658290821
+2373-NTKOD,Rancho Cordova,95670,8,Month-to-month,DSL,Electronic check,66.25,546.45,No,No,No,No,Yes,Yes,0.4122400908546697,0.5877599091453303
+9093-FPDLG,Hilmar,95324,11,Month-to-month,Fiber optic,Electronic check,94.2,999.9,No,Yes,Yes,Yes,No,Yes,0.4132238952071531,0.5867761047928469
+3748-FVMZZ,Oakland,94610,4,Month-to-month,DSL,Electronic check,40.05,162.45,No,No,No,Yes,No,Yes,0.4134074390096404,0.5865925609903596
+4183-MYFRB,Los Angeles,90021,21,Month-to-month,Fiber optic,Electronic check,90.05,1862.9,No,Yes,Yes,No,No,Yes,0.41344569998478653,0.5865543000152135
+5022-KVDQT,Woodland Hills,91364,27,Month-to-month,Fiber optic,Electronic check,81.3,2272.8,No,No,Yes,No,No,No,0.41453045273000555,0.5854695472699945
+6719-OXYBR,California City,93505,15,Month-to-month,Fiber optic,Electronic check,85.3,1219.85,No,No,Yes,No,Yes,No,0.4153062886351372,0.5846937113648628
+0581-BXBUB,Penn Valley,95946,4,Month-to-month,Fiber optic,Electronic check,72.75,317.75,No,Yes,No,No,No,No,0.41547725001622793,0.5845227499837721
+7978-DKUQH,Lake Elsinore,92532,25,Month-to-month,Fiber optic,Electronic check,74.6,1797.75,No,No,Yes,No,No,No,0.4159709132810193,0.5840290867189807
+7718-RXDGG,Newcastle,95658,15,Month-to-month,Fiber optic,Bank transfer (automatic),68.6,1108.6,No,No,No,No,No,No,0.41623160069693543,0.5837683993030646
+5899-OUVKV,Sacramento,95821,31,Month-to-month,Fiber optic,Electronic check,94.5,2979.2,No,Yes,No,No,Yes,Yes,0.4164340285947733,0.5835659714052267
+2582-FFFZR,Vallejo,94592,22,Month-to-month,DSL,Electronic check,50.6,1073.3,No,No,Yes,No,Yes,Yes,0.41663941141943783,0.5833605885805622
+2080-CAZNM,Burbank,91502,41,Month-to-month,Fiber optic,Electronic check,104.4,4133.95,No,Yes,Yes,No,Yes,Yes,0.4179487632872495,0.5820512367127505
+9355-NPPFS,Fremont,94538,26,Month-to-month,Fiber optic,Electronic check,78.8,2006.1,No,No,No,No,No,Yes,0.41823422811855027,0.5817657718814497
+9365-SRSZE,Los Angeles,90036,27,Month-to-month,Fiber optic,Electronic check,70.55,1943.9,No,No,No,No,No,No,0.41879609992749056,0.5812039000725094
+8212-CRQXP,Alviso,95002,22,Month-to-month,Fiber optic,Credit card (automatic),80.0,1706.45,No,No,No,No,Yes,No,0.4193595427960628,0.5806404572039372
+6243-OZGFH,Vista,92084,23,Month-to-month,DSL,Electronic check,44.95,996.85,No,No,No,No,Yes,Yes,0.4201306500159203,0.5798693499840797
+3518-PZXZQ,Castroville,95012,1,Month-to-month,DSL,Mailed check,55.3,55.3,No,No,No,No,Yes,No,0.4206282958585469,0.5793717041414531
+7853-OETYL,West Covina,91790,4,Month-to-month,DSL,Electronic check,29.05,129.6,Yes,No,No,No,No,No,0.42084357049095966,0.5791564295090403
+9529-OFXHY,Elk Creek,95939,15,Month-to-month,Fiber optic,Bank transfer (automatic),87.75,1242.2,Yes,No,No,No,Yes,No,0.4209510304167947,0.5790489695832053
+2603-HVKCG,Meridian,95957,31,Month-to-month,Fiber optic,Electronic check,101.4,3143.65,No,Yes,Yes,No,Yes,Yes,0.42112980290270075,0.5788701970972993
+6260-ONULR,Middletown,95461,1,Month-to-month,DSL,Mailed check,62.8,62.8,No,No,No,No,Yes,Yes,0.4212493794177812,0.5787506205822188
+1319-YLZJG,Dutch Flat,95714,12,Month-to-month,Fiber optic,Electronic check,84.6,959.9,Yes,Yes,Yes,No,No,No,0.42184318542618726,0.5781568145738127
+4690-PKDQG,San Diego,92102,42,Month-to-month,Fiber optic,Electronic check,95.55,3930.6,No,Yes,Yes,No,Yes,No,0.42201685387130405,0.577983146128696
+1304-BCCFO,Redlands,92374,9,Month-to-month,DSL,Mailed check,70.05,564.4,No,No,Yes,No,Yes,Yes,0.4225559311104544,0.5774440688895456
+1769-GRUIK,Gridley,95948,18,Month-to-month,Fiber optic,Electronic check,71.1,1247.75,No,No,No,No,No,No,0.4228577901475481,0.5771422098524519
+8630-FJLIB,San Jose,95130,18,Month-to-month,Fiber optic,Electronic check,69.8,1221.65,No,No,No,No,No,No,0.4228577901475481,0.5771422098524519
+5605-IYGFG,Thousand Palms,92276,7,Month-to-month,Fiber optic,Bank transfer (automatic),69.85,515.45,No,No,No,No,No,No,0.4231304253394236,0.5768695746605764
+0674-EYYZV,Los Angeles,90065,1,Month-to-month,DSL,Electronic check,54.65,54.65,No,No,No,No,Yes,No,0.4231914590061323,0.5768085409938677
+5439-WIKXB,Newhall,91321,41,Month-to-month,Fiber optic,Electronic check,94.55,3851.45,No,Yes,No,No,Yes,Yes,0.42407595383104757,0.5759240461689524
+8849-AYPTR,Sacramento,95819,33,Month-to-month,Fiber optic,Electronic check,91.25,2964.05,No,No,No,No,Yes,Yes,0.42433165470576495,0.575668345294235
+3050-GBUSH,Burlingame,94010,3,Month-to-month,DSL,Credit card (automatic),34.8,113.95,No,No,No,No,Yes,No,0.4244895186769406,0.5755104813230594
+9552-TGUZV,Upland,91784,8,Month-to-month,Fiber optic,Mailed check,75.0,658.1,Yes,No,No,No,No,No,0.4246448347821775,0.5753551652178225
+8356-WUAOJ,Glendale,91205,1,Month-to-month,DSL,Electronic check,45.0,45.0,No,No,No,No,No,No,0.4249867264273115,0.5750132735726885
+5016-IBERQ,Simi Valley,93063,23,Month-to-month,Fiber optic,Electronic check,84.25,1968.1,No,Yes,Yes,No,No,No,0.4254935579083762,0.5745064420916238
+5501-TVMGM,Canby,96015,1,Month-to-month,DSL,Electronic check,55.25,55.25,No,No,No,No,No,Yes,0.4256095179317958,0.5743904820682042
+0581-MDMPW,San Jose,95148,24,Month-to-month,Fiber optic,Credit card (automatic),88.95,2072.75,No,No,Yes,No,Yes,No,0.42613164347509913,0.5738683565249009
+9058-MJLZC,Yuba City,95991,24,Month-to-month,Fiber optic,Electronic check,94.6,2283.15,Yes,No,No,No,Yes,Yes,0.4262626788464663,0.5737373211535337
+3916-NRPAP,Escalon,95320,3,Month-to-month,Fiber optic,Credit card (automatic),85.7,256.75,No,No,Yes,No,No,Yes,0.4263127986148362,0.5736872013851638
+4360-PNRQB,Yucca Valley,92284,18,Month-to-month,Fiber optic,Bank transfer (automatic),75.6,1395.05,No,No,No,No,No,No,0.4264955347576601,0.5735044652423399
+4546-FOKWR,Los Gatos,95032,16,Month-to-month,Fiber optic,Credit card (automatic),74.75,1129.35,No,No,No,No,No,No,0.4266192382506149,0.5733807617493851
+3588-WSTTJ,Los Angeles,90077,35,Month-to-month,Fiber optic,Electronic check,99.05,3554.6,Yes,No,No,No,Yes,Yes,0.4277761676869679,0.5722238323130321
+2468-SJFLM,Biggs,95917,1,Month-to-month,Fiber optic,Mailed check,74.3,74.3,No,No,No,Yes,No,No,0.42817698982092756,0.5718230101790724
+9822-OAOVB,Santa Maria,93455,1,Month-to-month,DSL,Electronic check,55.45,55.45,No,No,No,No,No,Yes,0.4291314278645466,0.5708685721354534
+8645-KWHJO,San Gabriel,91776,14,Month-to-month,DSL,Electronic check,55.0,771.95,No,No,Yes,Yes,Yes,Yes,0.4293236240473062,0.5706763759526938
+4581-LNWUM,San Pablo,94806,13,Month-to-month,DSL,Electronic check,49.15,649.4,No,No,Yes,No,Yes,Yes,0.42948826517273897,0.570511734827261
+3002-WQZWT,Murrieta,92563,29,Month-to-month,Fiber optic,Electronic check,74.2,1993.25,No,No,No,No,No,No,0.42974552027696444,0.5702544797230356
+4480-QQRHC,Hydesville,95547,8,Month-to-month,Fiber optic,Bank transfer (automatic),74.05,600.15,No,No,Yes,No,No,No,0.4307035188617575,0.5692964811382425
+9588-OZDMQ,Tollhouse,93667,2,Month-to-month,DSL,Electronic check,45.0,89.75,No,No,No,No,No,No,0.4332273491593335,0.5667726508406665
+3312-ZWLGF,Acton,93510,29,Month-to-month,Fiber optic,Electronic check,79.3,2414.55,No,No,No,Yes,No,No,0.43368565706802975,0.5663143429319702
+2739-CACDQ,La Jolla,92037,17,Month-to-month,Fiber optic,Credit card (automatic),82.65,1470.05,No,No,Yes,No,No,No,0.43420777388907783,0.5657922261109222
+1307-ATKGB,Santa Clara,95054,24,Month-to-month,Fiber optic,Electronic check,89.55,2187.15,No,Yes,Yes,No,No,Yes,0.43457436944103456,0.5654256305589654
+9796-BPKIW,Redwood City,94063,8,Month-to-month,Fiber optic,Credit card (automatic),69.95,562.7,No,No,No,No,No,No,0.43554279082869607,0.5644572091713039
+8990-ZXLSU,Sun City,92586,9,Month-to-month,Fiber optic,Electronic check,69.05,651.5,No,No,No,No,No,No,0.4357551667653432,0.5642448332346568
+6559-PDZLR,Desert Center,92239,26,Month-to-month,Fiber optic,Electronic check,98.65,2537.0,No,No,Yes,Yes,Yes,Yes,0.4358383848237086,0.5641616151762914
+8040-MNRTF,Taft,93268,1,Month-to-month,Fiber optic,Mailed check,71.1,71.1,No,No,No,No,No,No,0.4365978027664267,0.5634021972335733
+5760-FXFVO,Pleasant Grove,95668,6,Month-to-month,Fiber optic,Electronic check,78.95,494.95,Yes,Yes,No,No,No,No,0.437014073101718,0.562985926898282
+2322-VCZHZ,El Portal,95318,23,Month-to-month,Fiber optic,Electronic check,90.0,2024.1,Yes,Yes,No,No,No,Yes,0.43719385210967643,0.5628061478903236
+1335-NTIUC,Pacoima,91331,9,Month-to-month,DSL,Electronic check,24.95,190.25,No,No,No,No,No,No,0.43756079024218075,0.5624392097578192
+0212-ISBBF,Berkeley,94705,22,Month-to-month,DSL,Electronic check,50.35,1098.85,No,Yes,No,No,Yes,Yes,0.4381530107434738,0.5618469892565262
+2916-BQZLN,Reseda,91335,19,Month-to-month,Fiber optic,Electronic check,84.75,1651.95,Yes,No,Yes,No,No,No,0.4388649655694967,0.5611350344305033
+7126-RBHSD,Lathrop,95330,17,Month-to-month,Fiber optic,Electronic check,78.9,1348.95,Yes,No,No,No,No,No,0.43890662324759455,0.5610933767524054
+8778-LMWTJ,River Pines,95675,9,Month-to-month,Fiber optic,Electronic check,74.85,708.2,Yes,No,No,No,No,No,0.4390066647415446,0.5609933352584554
+2697-NQBPF,Fulton,95439,34,Month-to-month,Fiber optic,Electronic check,105.35,3540.65,No,Yes,No,Yes,Yes,Yes,0.4395713922664408,0.5604286077335592
+0988-JRWWP,Wilseyville,95257,3,Month-to-month,DSL,Electronic check,54.2,140.4,No,No,No,No,Yes,No,0.4396933833739971,0.5603066166260029
+3853-LYGAM,Meadow Vista,95722,17,Month-to-month,Fiber optic,Bank transfer (automatic),95.65,1640.0,No,No,Yes,Yes,No,Yes,0.4400047851560074,0.5599952148439926
+3956-MGXOG,Modesto,95350,28,Month-to-month,Fiber optic,Electronic check,80.6,2244.95,No,No,No,No,No,Yes,0.44009670497949627,0.5599032950205037
+5226-NOZFC,Modesto,95358,26,Month-to-month,Fiber optic,Electronic check,85.75,2146.5,No,Yes,No,No,Yes,No,0.4404059411842485,0.5595940588157515
+6652-YFFJO,Tuolumne,95379,11,Month-to-month,DSL,Electronic check,64.9,716.1,No,No,No,No,Yes,Yes,0.44043359597733467,0.5595664040226653
+2507-QZPQS,La Mirada,90638,15,Month-to-month,Fiber optic,Electronic check,95.7,1451.1,No,Yes,No,Yes,No,Yes,0.4412107031580491,0.5587892968419509
+3717-OEAUQ,Ione,95640,2,Month-to-month,Fiber optic,Mailed check,70.7,129.2,No,No,No,No,No,No,0.44133812037634657,0.5586618796236534
+7895-VONWT,Manhattan Beach,90266,25,Month-to-month,DSL,Electronic check,48.25,1293.8,No,No,Yes,No,Yes,Yes,0.4413547618611692,0.5586452381388308
+0817-HSUSE,Altadena,91001,1,Month-to-month,DSL,Electronic check,75.5,75.5,No,No,Yes,Yes,Yes,Yes,0.44141624088008724,0.5585837591199128
+1399-UBQIU,Orange,92867,11,Month-to-month,DSL,Electronic check,69.35,712.25,No,No,Yes,No,Yes,Yes,0.44164178861070813,0.5583582113892919
+4367-NHWMM,Corte Madera,94925,1,Month-to-month,DSL,Mailed check,24.9,24.9,No,No,No,No,No,No,0.4419505271714995,0.5580494728285005
+7537-RBWEA,Petrolia,95558,1,Month-to-month,DSL,Mailed check,25.15,25.15,No,No,No,No,No,No,0.4419505271714995,0.5580494728285005
+5950-AAAGJ,Playa Del Rey,90293,18,Month-to-month,Fiber optic,Bank transfer (automatic),84.3,1537.9,No,No,No,No,Yes,No,0.4424647109981956,0.5575352890018044
+2424-WVHPL,Redondo Beach,90278,1,Month-to-month,Fiber optic,Electronic check,74.7,74.7,No,No,No,Yes,No,No,0.44314393915259065,0.5568560608474094
+3914-FDRHP,Warner Springs,92086,9,Month-to-month,Fiber optic,Electronic check,86.25,770.5,No,No,No,Yes,Yes,No,0.44331461818531914,0.5566853818146809
+0439-IFYUN,Westley,95387,18,Month-to-month,Fiber optic,Electronic check,74.7,1294.6,No,Yes,No,No,No,No,0.4437849262040052,0.5562150737959948
+0650-BWOZN,Aguanga,92536,18,Month-to-month,Fiber optic,Electronic check,73.55,1359.45,No,Yes,No,No,No,No,0.4437849262040052,0.5562150737959948
+9274-UARKJ,Modesto,95351,15,Month-to-month,Fiber optic,Bank transfer (automatic),83.2,1130.0,No,Yes,No,No,Yes,No,0.4442314230718728,0.5557685769281272
+5543-QDCRY,San Francisco,94103,4,Month-to-month,DSL,Electronic check,56.4,234.85,No,No,No,No,Yes,No,0.4444407976691245,0.5555592023308755
+0114-PEGZZ,Round Mountain,96084,33,Month-to-month,Fiber optic,Electronic check,107.55,3645.5,No,Yes,Yes,No,Yes,Yes,0.4444953299119758,0.5555046700880242
+9927-DSWDF,Palos Verdes Peninsula,90274,22,Month-to-month,Fiber optic,Electronic check,104.6,2180.55,Yes,Yes,No,Yes,Yes,Yes,0.44543268971303573,0.5545673102869643
+7586-ZATGZ,Ravendale,96123,40,Month-to-month,Fiber optic,Electronic check,84.9,3369.05,No,No,No,No,Yes,No,0.44580177699528534,0.5541982230047147
+5144-TVGLP,Los Angeles,90002,38,Month-to-month,Fiber optic,Electronic check,94.75,3653.0,No,No,No,No,Yes,Yes,0.44580967379597436,0.5541903262040256
+8486-AYEQH,Guatay,91931,31,Month-to-month,Fiber optic,Electronic check,76.05,2227.8,No,No,No,No,No,No,0.44630526728519504,0.553694732714805
+2070-XYMFH,Long Beach,90815,23,Month-to-month,Fiber optic,Mailed check,79.35,1835.3,No,No,Yes,No,No,No,0.44648842171296477,0.5535115782870352
+1580-BMCMR,Tehachapi,93561,19,Month-to-month,Fiber optic,Electronic check,87.3,1637.3,Yes,No,No,No,No,Yes,0.44737557733159217,0.5526244226684078
+8456-QDAVC,Winterhaven,92283,19,Month-to-month,Fiber optic,Bank transfer (automatic),78.7,1495.1,No,No,No,No,Yes,No,0.4474313211960569,0.5525686788039431
+7855-DIWPO,Sloughhouse,95683,21,Month-to-month,Fiber optic,Electronic check,68.65,1493.2,No,No,No,No,No,No,0.4476589493444043,0.5523410506555957
+7562-UXTPG,Canoga Park,91303,13,Month-to-month,Fiber optic,Mailed check,70.15,886.7,No,No,No,No,No,No,0.44850630698479754,0.5514936930152025
+8687-BAFGU,Clovis,93612,1,Month-to-month,Fiber optic,Electronic check,74.0,74.0,No,No,No,Yes,No,No,0.4485738429919477,0.5514261570080523
+2501-XWWTZ,San Clemente,92673,11,Month-to-month,Fiber optic,Electronic check,70.2,760.05,No,No,No,No,No,No,0.44880010952090943,0.5511998904790906
+6994-KERXL,Avalon,90704,4,Month-to-month,DSL,Electronic check,55.9,238.5,No,No,No,No,No,Yes,0.4504461065070763,0.5495538934929237
+4238-JSSWH,Porterville,93257,35,Month-to-month,Fiber optic,Bank transfer (automatic),102.05,3452.55,No,No,Yes,No,Yes,Yes,0.4509703745640541,0.5490296254359459
+0869-PAPRP,Pixley,93256,26,Month-to-month,Fiber optic,Credit card (automatic),85.7,2067.0,No,No,Yes,No,Yes,No,0.4517679457585324,0.5482320542414676
+3955-JBZZM,Hermosa Beach,90254,20,Month-to-month,Fiber optic,Electronic check,78.8,1641.3,No,No,No,No,Yes,No,0.45185804128679985,0.5481419587132002
+2823-LKABH,Rancho Mirage,92270,18,Month-to-month,Fiber optic,Bank transfer (automatic),95.05,1679.4,No,No,Yes,Yes,No,Yes,0.45187155182378536,0.5481284481762146
+0376-OIWME,San Ysidro,92173,36,Month-to-month,Fiber optic,Electronic check,93.6,3366.05,Yes,No,No,No,Yes,Yes,0.4524232929202635,0.5475767070797365
+6522-YRBXD,Anaheim,92802,35,Month-to-month,Fiber optic,Electronic check,94.55,3365.4,Yes,Yes,No,No,No,Yes,0.4524551583346633,0.5475448416653367
+3966-HRMZA,Bishop,93514,3,Month-to-month,Fiber optic,Mailed check,75.05,202.9,No,No,Yes,No,No,No,0.45254639698538524,0.5474536030146148
+4718-DHSMV,Llano,93544,11,Month-to-month,DSL,Mailed check,35.8,363.15,No,No,No,No,Yes,No,0.45332221404101647,0.5466777859589835
+1391-UBDAR,Riverside,92504,11,Month-to-month,Fiber optic,Electronic check,72.9,818.45,No,No,Yes,No,No,No,0.45357717943409503,0.546422820565905
+8584-KMVXD,Calistoga,94515,8,Month-to-month,Fiber optic,Electronic check,75.6,535.55,No,Yes,No,No,No,No,0.453923103224697,0.546076896775303
+2523-EWWZL,Blythe,92225,27,Month-to-month,Fiber optic,Electronic check,76.1,2093.4,No,Yes,No,No,No,No,0.4540963041968876,0.5459036958031124
+6217-TOWGS,San Jose,95113,17,Month-to-month,DSL,Bank transfer (automatic),75.4,1322.55,No,Yes,No,No,Yes,Yes,0.4540992355624771,0.5459007644375229
+2832-KJCRD,Los Angeles,90071,38,Month-to-month,Fiber optic,Electronic check,103.65,3988.5,No,No,Yes,Yes,Yes,Yes,0.454656162139919,0.545343837860081
+5035-BVCXS,Loyalton,96118,11,Month-to-month,Fiber optic,Mailed check,75.9,866.4,No,Yes,No,No,No,No,0.4548327446243797,0.5451672553756203
+7508-SMHXL,San Francisco,94109,15,Month-to-month,Fiber optic,Credit card (automatic),89.0,1288.3,No,Yes,No,No,Yes,No,0.45535393417420467,0.5446460658257953
+0082-OQIQY,Farmington,95230,29,Month-to-month,Fiber optic,Electronic check,94.2,2607.6,No,No,No,Yes,Yes,Yes,0.45600337878971753,0.5439966212102825
+9518-XXBXE,Patterson,95363,10,Month-to-month,Fiber optic,Electronic check,75.3,720.45,Yes,No,No,No,No,No,0.4562187850822885,0.5437812149177115
+1101-SSWAG,Berkeley,94702,15,Month-to-month,DSL,Electronic check,51.1,711.15,No,No,No,No,No,No,0.4567947254875667,0.5432052745124333
+7011-CVEUC,Chula Vista,91911,25,Month-to-month,Fiber optic,Credit card (automatic),95.7,2338.35,No,No,No,Yes,Yes,Yes,0.45772436839210284,0.5422756316078972
+6778-YSNIH,Riverside,92501,2,Month-to-month,DSL,Electronic check,59.0,114.15,No,Yes,No,No,Yes,No,0.4578922685776423,0.5421077314223577
+4128-ETESU,Pasadena,91101,47,Month-to-month,Fiber optic,Electronic check,99.7,4747.2,No,No,Yes,No,Yes,Yes,0.4590349780293569,0.5409650219706431
+5533-NHFRF,San Jose,95132,7,Month-to-month,DSL,Electronic check,44.4,265.8,No,Yes,No,Yes,No,Yes,0.45915613409442224,0.5408438659055778
+8818-DOPVL,El Cerrito,94530,46,Month-to-month,Fiber optic,Electronic check,104.45,4863.85,No,Yes,Yes,No,Yes,Yes,0.4593395547664265,0.5406604452335735
+8490-BXHEO,Lucerne Valley,92356,18,Month-to-month,Fiber optic,Credit card (automatic),80.55,1411.65,No,Yes,No,No,No,No,0.4606981112597881,0.5393018887402119
+0599-XNYDO,Graton,95444,20,Month-to-month,Fiber optic,Bank transfer (automatic),69.8,1540.35,No,No,No,No,No,No,0.4611600994420001,0.5388399005579999
+1173-NOEYG,Santa Margarita,93453,27,Month-to-month,Fiber optic,Bank transfer (automatic),90.15,2423.4,No,No,Yes,No,No,Yes,0.4617033223950284,0.5382966776049716
+5175-WLYXL,Lone Pine,93545,22,Month-to-month,Fiber optic,Mailed check,78.85,1600.25,No,Yes,No,No,No,No,0.4618245397667683,0.5381754602332317
+0577-WHMEV,San Jose,95133,16,Month-to-month,Fiber optic,Electronic check,90.7,1374.9,Yes,Yes,Yes,No,No,No,0.4618908935187679,0.5381091064812321
+0708-LGSMF,Milpitas,95035,13,Month-to-month,DSL,Electronic check,65.85,902.25,Yes,No,No,No,No,Yes,0.46196816204755775,0.5380318379524422
+7852-LECYP,Los Angeles,90019,13,Month-to-month,Fiber optic,Credit card (automatic),93.8,1261.0,Yes,Yes,No,No,No,Yes,0.4623515812990854,0.5376484187009146
+4195-NZGTA,Valencia,91354,1,Month-to-month,DSL,Electronic check,25.25,25.25,No,No,No,No,No,No,0.4624728512754208,0.5375271487245792
+0093-EXYQL,Ojai,93023,40,Month-to-month,Fiber optic,Electronic check,91.55,3673.6,No,No,No,No,Yes,Yes,0.46270074598519473,0.5372992540148053
+3088-LHEFH,Pollock Pines,95726,11,Month-to-month,Fiber optic,Bank transfer (automatic),79.0,929.3,Yes,No,No,No,No,No,0.46290951950045367,0.5370904804995463
+7077-XJMET,Alta,95701,12,Month-to-month,DSL,Electronic check,74.15,741.4,No,No,Yes,Yes,Yes,Yes,0.4629597463538171,0.5370402536461829
+6034-YMTOB,Arcadia,91007,5,Month-to-month,Fiber optic,Mailed check,75.65,399.45,No,No,No,Yes,No,No,0.46497167512256943,0.5350283248774306
+5019-GQVCR,Westlake Village,91361,43,Month-to-month,Fiber optic,Electronic check,84.85,3645.6,No,No,No,No,Yes,No,0.46537878813928457,0.5346212118607154
+5626-MGTUK,Chatsworth,91311,20,Month-to-month,Fiber optic,Bank transfer (automatic),89.1,1879.25,Yes,No,No,No,Yes,No,0.4659823141728111,0.5340176858271889
+8543-MSDMF,Coachella,92236,3,Month-to-month,DSL,Electronic check,77.4,206.15,Yes,No,Yes,No,Yes,Yes,0.4663002508635796,0.5336997491364204
+6212-ATMLK,Rancho Cucamonga,91701,50,Month-to-month,Fiber optic,Electronic check,95.7,4729.75,No,No,No,No,Yes,Yes,0.466805528183483,0.533194471816517
+0570-BFQHT,Anderson,96007,9,Month-to-month,Fiber optic,Electronic check,80.55,653.9,No,Yes,Yes,No,No,No,0.46707269333440826,0.5329273066655917
+1730-ZMAME,Ontario,91762,32,Month-to-month,Fiber optic,Electronic check,79.5,2665.0,No,No,No,No,No,Yes,0.4679966111383469,0.5320033888616531
+2971-SGAFL,Millbrae,94030,13,Month-to-month,DSL,Electronic check,78.75,995.35,Yes,No,Yes,No,Yes,Yes,0.468519543297784,0.531480456702216
+9979-RGMZT,Los Angeles,90022,7,One year,Fiber optic,Mailed check,94.05,633.45,No,Yes,No,No,Yes,Yes,0.46913634276512606,0.5308636572348739
+5650-YLIBA,Lakeport,95453,31,Month-to-month,Fiber optic,Electronic check,81.15,2640.55,No,Yes,No,No,No,No,0.4693419083778022,0.5306580916221978
+8819-IMISP,Redlands,92373,31,Month-to-month,Fiber optic,Electronic check,80.45,2429.1,No,Yes,No,No,No,No,0.4693419083778022,0.5306580916221978
+0096-BXERS,Inverness,94937,6,Month-to-month,DSL,Electronic check,50.35,314.55,No,No,No,No,No,No,0.46988446685118546,0.5301155331488145
+5960-MVTUK,Grenada,96038,3,Month-to-month,DSL,Electronic check,29.75,96.85,No,No,No,Yes,No,No,0.4706777362952428,0.5293222637047572
+1941-HOSAM,San Diego,92101,1,Month-to-month,Fiber optic,Electronic check,90.1,90.1,No,No,No,No,Yes,Yes,0.4706777800792973,0.5293222199207027
+6599-SFQVE,Santa Clara,95051,6,Month-to-month,DSL,Electronic check,55.0,340.4,No,No,No,No,No,Yes,0.47073401990573627,0.5292659800942637
+4236-UJPWO,Alviso,95002,2,Month-to-month,DSL,Electronic check,24.5,46.4,No,No,No,No,No,No,0.47084515169079355,0.5291548483092064
+4257-GAESD,Dinuba,93618,6,Month-to-month,DSL,Credit card (automatic),45.0,298.7,No,No,No,No,Yes,Yes,0.4714902735803065,0.5285097264196935
+1436-ZMJAN,Gerber,96035,10,Month-to-month,DSL,Credit card (automatic),67.8,653.15,No,No,Yes,No,Yes,Yes,0.47196545799043677,0.5280345420095632
+2974-GGUXS,Granite Bay,95746,36,Month-to-month,Fiber optic,Credit card (automatic),91.95,3301.05,No,Yes,No,No,Yes,No,0.47225769767167547,0.5277423023283245
+6542-LWGXJ,Pixley,93256,3,Month-to-month,DSL,Mailed check,25.0,78.25,No,No,No,No,No,No,0.4730230639056521,0.5269769360943479
+5630-IXDXV,Reedley,93654,47,Month-to-month,Fiber optic,Electronic check,106.35,4849.1,No,Yes,Yes,No,Yes,Yes,0.47317961248483786,0.5268203875151621
+7181-OQCUT,Fresno,93706,21,Month-to-month,Fiber optic,Mailed check,103.85,2215.0,Yes,No,Yes,No,Yes,Yes,0.4732601560126798,0.5267398439873202
+9643-YBLUR,West Covina,91791,9,Month-to-month,DSL,Credit card (automatic),69.05,653.95,No,Yes,Yes,No,No,Yes,0.47388849842078984,0.5261115015792102
+2675-OTVVJ,Novato,94945,31,Month-to-month,Fiber optic,Electronic check,89.45,2807.65,Yes,No,No,No,Yes,No,0.4746672189492851,0.5253327810507149
+1833-TCXKK,San Bernardino,92408,45,Month-to-month,Fiber optic,Bank transfer (automatic),107.75,4882.8,No,Yes,Yes,No,Yes,Yes,0.4747827235123844,0.5252172764876156
+9743-DQKQW,Escalon,95320,3,Month-to-month,DSL,Electronic check,25.1,79.8,No,No,No,No,No,No,0.47564338883155133,0.5243566111684487
+2694-CIUMO,Los Angeles,90033,12,Month-to-month,Fiber optic,Credit card (automatic),79.55,958.25,No,No,No,Yes,No,No,0.4763338668466669,0.5236661331533331
+0221-WMXNQ,Chino,91710,4,Month-to-month,Fiber optic,Electronic check,75.35,273.4,Yes,No,No,No,No,No,0.47642749988436106,0.5235725001156389
+6481-ESCNL,Clayton,94517,29,Month-to-month,Fiber optic,Bank transfer (automatic),100.55,2878.75,No,No,Yes,No,Yes,Yes,0.47662737756060825,0.5233726224393918
+9944-AEXBM,Casmalia,93429,32,Month-to-month,Fiber optic,Bank transfer (automatic),85.65,2664.3,No,No,No,No,No,Yes,0.4771852712368583,0.5228147287631417
+7901-HXJVA,Chico,95928,14,Month-to-month,Fiber optic,Electronic check,76.45,1117.55,No,No,Yes,No,No,No,0.47868570179084713,0.5213142982091529
+3352-ALMCK,Navarro,95463,40,Month-to-month,Fiber optic,Mailed check,102.65,4108.15,No,Yes,Yes,No,Yes,Yes,0.4788351460001816,0.5211648539998184
